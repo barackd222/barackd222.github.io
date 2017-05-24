@@ -28,5 +28,8 @@ o	Others TBC
 
 ----------
 
-<a href="gitmedrecng" rel="some text">![link text](git.PNG "GIT")</a>
+| <a href="gitmedrecng" rel="GIT repo">![link text](git.png "GIT")</a>  | <a href="teachme" rel="Teach Me">![link text](teachMe.png "Teach Me")</a>  | 
+| <a href="externalapis" rel="External APIs">![link text](externalapis.png "External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text](internalapis.png "GIT")</a>  |
+
+
 
