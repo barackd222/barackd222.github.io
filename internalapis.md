@@ -1,4 +1,4 @@
-**MedRec Platform Vision Internal APIs**
+**MedRec Platform Vision - Internal APIs**
 ===================
 
 
@@ -28,21 +28,28 @@ The list below shows only those attributes that are required for v1. It is expec
 
 - **GET** -- Get existing physician(s)
 > **/physicians** --`It returns the full list of physicians with all required attributes`
+<br>
 > **/physician/{id}**   -- `It returns the list of required attributes for this physician.`
-> **physician/{id}/agenda** -- `It returns the next 2 weeks agenda.`
-> **physician/{id}/availability**  -- `It returns the next 2 weeks availability.`
-> **physician/{id}/prescriptions**  -- `It returns the full list of prescriptions issued by this physician.`
+<br>
+> **/physician/{id}/agenda** -- `It returns the next 2 weeks agenda.`
+<br>
+> **/physician/{id}/availability**  -- `It returns the next 2 weeks availability.`
+<br>
+> **/physician/{id}/prescriptions**  -- `It returns the full list of prescriptions issued by this physician.`
 
 - **PUT** -- Updates existing physician(s)
 > **/physicians** -- `JSON payload with list of all physicians attributes attached, including Ids.`
+<br>
 > **/physician**   -- `JSON payload with all physician's attributes attached, including Id.`
 
 - **POST** -- Creates new physician(s)
 > **/physicians** -- `JSON payload with list of physicians attributes attached.`
+<br>
 > **/physician**   -- `JSON payload with physician's attributes attached.`
 
 - **DELETE** -- Delete existing physician(s)
 > **/physicians** -- `JSON payload with list of physicians Ids to be removed.`
+<br>
 > **/physician/{id}**   -- `Deletes Physician by Id.`
 
  
@@ -72,22 +79,29 @@ The list below shows only those attributes that are required for v1. It is expec
 
 - **GET** -- Get existing patient(s)
 > **/patients** -- `It returns the full list of patients with all required attributes.`
+<br>
 > **/patient/{id}**   -- `It returns the list of required attributes for this patient.`
-> **patient/{id}/conditions**  -- `It returns the Patient's Medical Conditions.`
-> **patient/{id}/appointments** -- `It returns the patient's next 2 weeks appointments.`
->  **patient/{id}/prescriptions** -- `It returns the full list of prescriptions issued to this patient.`
+<br>
+> **/patient/{id}/conditions**  -- `It returns the Patient's Medical Conditions.`
+<br>
+> **/patient/{id}/appointments** -- `It returns the patient's next 2 weeks appointments.`
+<br>
+> **/patient/{id}/prescriptions** -- `It returns the full list of prescriptions issued to this patient.`
 
 - **PUT** -- Updates existing patient(s)
 > **/patients** -- `JSON payload with list of patients attributes attached, including Ids.`
+<br>
 > **/patient**   -- `JSON payload with patient's attributes attached, including Id.`
 
 - **POST** -- Creates new patient(s)
-> **/patients** -- JSON payload with list of patients attributes attached.
-> **/patient**   -- JSON payload with patient's attributes attached.
+> **/patients** -- `JSON payload with list of patients attributes attached.`
+<br>
+> **/patient**   -- `JSON payload with patient's attributes attached.`
 
 - **DELETE** -- Delete existing patient(s)
-> **/patients** -- JSON payload with list of patients Ids to be removed.
-> **/patient/{id}**   -- Deletes a patient by Id.
+> **/patients** -- `JSON payload with list of patients Ids to be removed.`
+<br>
+> **/patient/{id}**   -- `Deletes a patient by Id.`
 
 
 Appointments
@@ -112,19 +126,23 @@ The list below shows only those attributes that are required for v1. It is expec
 
 - **GET** -- Get existing appointment(s)
 > **/appointments** -- `It returns the full list of existing appointments with all required attributes.`
+<br>
 > **/appointment/{id}**   -- `It returns the list of required attributes for this appointment.`
 
 - **PUT** -- Updates existing appointment(s)
 > **/appointments** -- `JSON payload with list of appointments attributes attached, including Ids.`
+<br>
 > **/appointment**   -- `JSON payload with appointment's attributes attached, including Id.`
 
 - **POST** -- Creates new appointment(s)
-> **/appointments** -- JSON payload with list of appointments attributes attached.
-> **/appointment**   -- JSON payload with appointment's attributes attached.
+> **/appointments** -- `JSON payload with list of appointments attributes attached.`
+<br>
+> **/appointment**   -- `JSON payload with appointment's attributes attached.`
 
 - **DELETE** -- Delete existing appointment(s)
-> **/appointments** -- JSON payload with list of appointments Ids to be removed.
-> **/appointment/{id}**   -- Deletes an appointment by Id.
+> **/appointments** -- `JSON payload with list of appointments Ids to be removed.`
+<br>
+> **/appointment/{id}**   -- `Deletes an appointment by Id.`
 
 
  
@@ -150,19 +168,23 @@ The list below shows only those attributes that are required for v1. It is expec
 
 - **GET** -- Get existing prescription(s)
 > **/prescriptions** -- `It returns the full list of issued prescriptions with all required attributes.`
+<br>
 > **/prescription/{id}**   -- `It returns the list of required attributes for this prescription.`
 
 - **PUT** -- Updates existing prescription(s)
 > **/prescriptions** -- `JSON payload with list of prescriptions attributes attached, including Ids.`
+<br>
 > **/prescription**   -- `JSON payload with prescription's attributes attached, including Id.`
 
 - **POST** -- Creates new prescription(s)
-> **/prescriptions** -- JSON payload with list of prescriptions attributes attached.
-> **/prescription**   -- JSON payload with prescription's attributes attached.
+> **/prescriptions** -- `JSON payload with list of prescriptions attributes attached.`
+<br>
+> **/prescription**   -- `JSON payload with prescription's attributes attached.`
 
 - **DELETE** -- Delete existing prescription(s)
-> **/prescriptions** -- JSON payload with list of prescriptions Ids to be removed.
-> **/prescription/{id}**   -- Deletes a prescription by Id.
+> **/prescriptions** -- `JSON payload with list of prescriptions Ids to be removed.`
+<br>
+> **/prescription/{id}**   -- `Deletes a prescription by Id.`
 
   
 Measures
@@ -188,15 +210,18 @@ The list below shows only those attributes that are required for v1. It is expec
 
 - **GET** -- Get existing patient's medical measure(s)
 > **/measures** -- `It returns the full list of measures with all required attributes.`
+<br>
 > **/measure/patient/{id}**   -- `It returns the list of measures conducted on patient id`
 
 - **POST** -- Creates new patient's medical measure(s)
-> **/measures** -- JSON payload with list of full patients list medical measures attached. This API is merely used for maintenance/data recovery purposes.
-> **/measure/patient/{id}**   -- JSON payload with a new patient medical measure  attached.
+> **/measures** -- `JSON payload with list of full patients list medical measures attached. This API is merely used for maintenance/data recovery purposes.`
+<br>
+> **/measure/patient/{id}**   -- `JSON payload with a new patient medical measure  attached.`
 
 - **DELETE** -- Delete existing patient's medical measure(s)
-> **/measures** -- JSON payload with list of measures Ids to be removed. - This API is merely used for maintenance purposes
-> **/measure/patient/{id}**   -- Deletes ALL existing patient's medical measures. - This API is merely used for maintenance purposes.
+> **/measures** -- `JSON payload with list of measures Ids to be removed. - This API is merely used for maintenance purposes.`
+<br>
+> **/measure/patient/{id}**   -- `Deletes ALL existing patient's medical measures. - This API is merely used for maintenance purposes.`
 
    
 
@@ -221,19 +246,23 @@ The list below shows only those attributes that are required for v1. It is expec
 
 - **GET** -- Get existing drug(s)
 > **/drugs** -- `It returns the full list of existing drugs in the inventory with all required attributes.`
+<br>
 > **/drug/{id}**   -- `It returns the list of required attributes for this drup.`
 
 - **PUT** -- Updates existing drug(s)
 > **/drugs** -- `JSON payload with list of drugs attributes attached, including Ids.`
+<br>
 > **/drug**   -- `JSON payload with drug's attributes attached, including Id.`
 
 - **POST** -- Creates new drug(s)
-> **/drugs** -- JSON payload with list of drugs attributes attached.
-> **/drug**   -- JSON payload with drug's attributes attached.
+> **/drugs** -- `JSON payload with list of drugs attributes attached.`
+<br>
+> **/drug**   -- `JSON payload with drug's attributes attached.`
 
-- **DELETE** -- Delete existing drug(s)
-> **/drugs** -- JSON payload with list of drugs Ids to be removed.
-> **/drug/{id}**   -- Deletes an drug by Id.
+- **DELETE** -- `Delete existing drug(s)`
+> **/drugs** -- `JSON payload with list of drugs Ids to be removed.`
+<br>
+> **/drug/{id}**   -- `Deletes an drug by Id.`
 
 
 Diseases
@@ -257,19 +286,23 @@ The list below shows only those attributes that are required for v1. It is expec
 
 - **GET** -- Get existing disease(s)
 > **/diseases** -- `It returns the full list of existing diseases in the catalogue with all required attributes.`
+<br>
 > **/disease/{id}**   -- `It returns the list of required attributes for this disease.`
 
 - **PUT** -- Updates existing disease(s)
 > **/diseases** -- `JSON payload with list of diseases attributes attached, including Ids.`
+<br>
 > **/disease**   -- `JSON payload with disease's attributes attached, including Id.`
 
 - **POST** -- Creates new disease(s)
-> **/diseases** -- JSON payload with list of diseases attributes attached.
-> **/disease**   -- JSON payload with disease's attributes attached.
+> **/diseases** -- `JSON payload with list of diseases attributes attached.`
+<br>
+> **/disease**   -- `JSON payload with disease's attributes attached.`
 
-- **DELETE** -- Delete existing disease(s)
-> **/diseases** -- JSON payload with list of diseases Ids to be removed.
-> **/disease/{id}**   -- Deletes a disease by Id.
+- **DELETE** -- `Delete existing disease(s)`
+> **/diseases** -- `JSON payload with list of diseases Ids to be removed.`
+<br>
+> **/disease/{id}**   -- `Deletes a disease by Id.`
 
 
 
