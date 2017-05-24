@@ -46,4 +46,8 @@ o	Others
 | <a href="externalapis" rel="External APIs">![link text](externalapis.png "External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text](internalapis.png "GIT")</a>  |
 | <a href="team" rel="Team">![link text](team.png "Team")</a>  |
 
+----------
 
+<center>
+<a href="http://cloud.oracle.com">Powered by Oracle Public Cloud</a>
+</center>
