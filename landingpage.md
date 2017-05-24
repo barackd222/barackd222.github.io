@@ -28,5 +28,5 @@ o	Others TBC
 
 ----------
 
-![link text](git.png "GIT")
+![link text](git.PNG "GIT")
 
