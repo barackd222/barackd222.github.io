@@ -12,12 +12,14 @@ The MedRec Platform is essentially a playpen with some basic elements at its cor
 With the core application and internal API’s locked down as Version 1, the Castle will then serve as a vehicle to overlay innovative ideas and implement them using various Oracle (IaaS, PaaS, SaaS) services and Open Source software to demonstrate proof points around the ideas. It is anticipated that this opportunity to innovate will generate activity from Oracle Pre-Sales, Partners and Developers and support Hackathon activities during FY18.
 
 <br>
+<center>
 <table align="center">
   <tr>
     <td><img src="robotmedicine.jpg" width="250" height="200"></td>
     <td><img src="cozmoanki.jpg"  width="270" height="210"></td>
   </tr>
 </table>
+</center>
 
 
 ## Target Audience / Usage
