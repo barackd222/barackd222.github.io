@@ -1,4 +1,4 @@
-**MedRec Platform Vision**
+**Anki-MedRec Platform Vision**
 ===================
 
 
