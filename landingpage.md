@@ -28,5 +28,5 @@ o	Others TBC
 
 ----------
 
-![link text](git.PNG "GIT")
+<a href="gitmedrecng/" rel="some text">![link text](git.PNG "GIT")</a>
 
