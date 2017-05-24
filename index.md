@@ -18,9 +18,21 @@ The Castle will support a diverse range of users and activities, such as,
 -	Sales and Pre-Sales (functional demonstrations of Oracle Cloud Services)
 -	Pre-Sales (technical demonstrations and POC's of Oracle Cloud Services)
 -	Pre-Sales Speed To Value Workshops: 
+
+<br>
+
 o	CloudInAction
+
+<br>
+
 o	APIsInAction
+
+<br>
+
 o	DevelopersInAction
+
+<br>
+
 o	Others
 -	Oracle Business Partners 
 -	Developers in Hackathons (refer Hackathons.md)
