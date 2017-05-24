@@ -13,12 +13,7 @@ With the core application and internal API’s locked down as Version 1, the Cas
 
 <br>
 <center>
-<table align="center">
-  <tr>
-    <td><img src="robotmedicine.jpg" width="250" height="200"></td>
-    <td><img src="cozmoanki.jpg"  width="270" height="210"></td>
-  </tr>
-</table>
+ <img src="robotmedicine.jpg" width="250" height="200"><img src="cozmoanki.jpg"  width="270" height="210">
 </center>
 
 
