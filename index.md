@@ -26,9 +26,12 @@ o	APIsInAction
 o	DevelopersInAction
 <br>
 o	Others
+<br>
 -	Oracle Business Partners 
--	Developers in Hackathons (refer Hackathons.md)
--	University Students (refer Unis.md)
+<br>
+-	Developers in Hackathons
+<br>
+-	University Students
 
 
 ----------
