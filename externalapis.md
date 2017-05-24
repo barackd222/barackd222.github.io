@@ -7,5 +7,5 @@
 
 ----------
 
-<a href="landingpage.md" rel="Go back">![link text](back.png "Go back>
+<a href="landingpage" rel="Go back">![link text](back.png "Go Back")</a>
 
