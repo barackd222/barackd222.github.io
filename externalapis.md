@@ -77,11 +77,11 @@ The list below shows only those attributes that are required for v1.
 <br>
 > **/physician/{id}**   -- `It returns the list of required attributes for this physician.`
 <br>
-> **physician/{id}/agenda** -- `It returns the next 2 weeks agenda.`
+> **/physician/{id}/agenda** -- `It returns the next 2 weeks agenda.`
 <br>
-> **physician/{id}/availability**  -- `It returns the next 2 weeks availability.`
+> **/physician/{id}/availability**  -- `It returns the next 2 weeks availability.`
 <br>
-> **physician/{id}/prescriptions**  -- `It returns the full list of prescriptions issued by this physician.`
+> **/physician/{id}/prescriptions**  -- `It returns the full list of prescriptions issued by this physician.`
 <br>
 
 - **PUT** -- Updates existing physician(s)
@@ -199,22 +199,22 @@ The list below shows only those attributes that are required for v1.
 <br>
 > **/patient/{id}**   -- `It returns the list of required attributes for this patient.`
 <br>
-> **patient/{id}/conditions**  -- `It returns the Patient's Medical Conditions.`
+> **/patient/{id}/conditions**  -- `It returns the Patient's Medical Conditions.`
 <br>
-> **patient/{id}/appointments** -- `It returns the patient's next 2 weeks appointments.`
+> **/patient/{id}/appointments** -- `It returns the patient's next 2 weeks appointments.`
 <br>
->  **patient/{id}/prescriptions** -- `It returns the full list of prescriptions issued to this patient.`
+>  **/patient/{id}/prescriptions** -- `It returns the full list of prescriptions issued to this patient.`
 
 - **PUT** -- Updates existing patient(s)
 > **/patient**   -- `JSON payload expected with patient's attributes attached, including Id.`
 
 - **POST** -- Creates new patient(s)
-> **/patients** -- JSON payload expected with list of patients attributes attached.
+> **/patients** -- `JSON payload expected with list of patients attributes attached.`
 <br>
-> **/patient**   -- JSON payload expected with patient's attributes attached.
+> **/patient**   -- `JSON payload expected with patient's attributes attached.`
 
 - **DELETE** -- Delete existing patient(s)
-> **/patient/{id}**   -- Deletes a patient by Id.
+> **/patient/{id}**   -- `Deletes a patient by Id.`
 
 <br>
 
@@ -265,12 +265,12 @@ The list below shows only those attributes that are required for v1.
 > **/appointment**   -- `JSON payload expected with appointment's attributes attached, including Id.`
 
 - **POST** -- Creates new appointment(s)
-> **/appointments** -- JSON payload expected with list of appointments attributes attached.
+> **/appointments** -- `JSON payload expected with list of appointments attributes attached.`
 <br>
-> **/appointment**   -- JSON payload expected with appointment's attributes attached.
+> **/appointment**   -- `JSON payload expected with appointment's attributes attached.`
 
 - **DELETE** -- Delete existing appointment(s)
-> **/appointment/{id}**   -- Deletes an appointment by Id.
+> **/appointment/{id}**   -- `Deletes an appointment by Id.`
 
 
 <br>
@@ -331,12 +331,12 @@ The list below shows only those attributes that are required for v1.
 > **/prescription**   -- `JSON payload expected with prescription's attributes attached, including Id.`
 
 - **POST** -- Creates new prescription(s)
-> **/prescriptions** -- JSON payload expected with list of prescriptions attributes attached.
+> **/prescriptions** -- `JSON payload expected with list of prescriptions attributes attached.`
 <br>
-> **/prescription**   -- JSON payload expected with prescription's attributes attached.
+> **/prescription**   -- `JSON payload expected with prescription's attributes attached.`
 
 - **DELETE** -- Delete existing prescription(s)
-> **/prescription/{id}**   -- Deletes a prescription by Id.
+> **/prescription/{id}**   -- `Deletes a prescription by Id.`
 
 <br>
   
@@ -383,12 +383,12 @@ The list below shows only those attributes that are required for v1.
 > **/measure/patient/{id}**   -- `It returns the list of measures conducted on patient id`
 
 - **POST** -- Creates new patient's medical measure(s)
-> **/measures** -- JSON payload expected with list of full patients list medical measures attached. This API is merely used for maintenance/data recovery purposes.
+> **/measures** -- `JSON payload expected with list of full patients list medical measures attached. This API is merely used for maintenance/data recovery purposes.`
 <br>
-> **/measure/patient/{id}**   -- JSON payload expected with a new patient medical measure  attached.
+> **/measure/patient/{id}**   -- `JSON payload expected with a new patient medical measure  attached.`
 
-- **DELETE** -- Delete existing patient's medical measure(s)
-> **/measure/patient/{id}**   -- Deletes ALL existing patient's medical measures. - This API is merely used for maintenance purposes.
+- **DELETE** -- `Delete existing patient's medical measure(s)`
+> **/measure/patient/{id}**   -- `Deletes ALL existing patient's medical measures. - This API is merely used for maintenance purposes.`
 
    
 <br>
@@ -441,12 +441,12 @@ The list below shows only those attributes that are required for v1.
 > **/drug**   -- `JSON payload expected with drug's attributes attached, including Id.`
 
 - **POST** -- Creates new drug(s)
-> **/drugs** -- JSON payload expected with list of drugs attributes attached.
+> **/drugs** -- `JSON payload expected with list of drugs attributes attached.`
 <br>
-> **/drug**   -- JSON payload expected with drug's attributes attached.
+> **/drug**   -- `JSON payload expected with drug's attributes attached.`
 
 - **DELETE** -- Delete existing drug(s)
-> **/drug/{id}**   -- Deletes an drug by Id.
+> **/drug/{id}**   -- `Deletes an drug by Id.`
 
 <br>
 
@@ -503,12 +503,12 @@ The list below shows only those attributes that are required for v1.
 > **/disease**   -- `JSON payload expected with disease's attributes attached, including Id.`
 
 - **POST** -- Creates new disease(s)
-> **/diseases** -- JSON payload expected with list of diseases attributes attached.
+> **/diseases** -- `JSON payload expected with list of diseases attributes attached.`
 <br>
-> **/disease**   -- JSON payload expected with disease's attributes attached.
+> **/disease**   -- `JSON payload expected with disease's attributes attached.`
 
 - **DELETE** -- Delete existing disease(s)
-> **/disease/{id}**   -- Deletes a disease by Id.
+> **/disease/{id}**   -- `Deletes a disease by Id.`
 
 
 
