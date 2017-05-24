@@ -72,17 +72,24 @@ The list below shows only those attributes that are required for v1.
 #### <i class="icon-file"></i> Required APIs:
 
 - **GET** -- Get existing physician(s)
+<br>
 > **/physicians** --`It returns the full list of physicians with all required attributes`
+<br>
 > **/physician/{id}**   -- `It returns the list of required attributes for this physician.`
+<br>
 > **physician/{id}/agenda** -- `It returns the next 2 weeks agenda.`
+<br>
 > **physician/{id}/availability**  -- `It returns the next 2 weeks availability.`
+<br>
 > **physician/{id}/prescriptions**  -- `It returns the full list of prescriptions issued by this physician.`
+<br>
 
 - **PUT** -- Updates existing physician(s)
 > **/physician**   -- `JSON payload expected with all physician's attributes attached, including Id.`
 
 - **POST** -- Creates new physician(s)
 > **/physicians** -- `JSON payload expected with list of physicians attributes attached.`
+<br>
 > **/physician**   -- `JSON payload expected with physician's attributes attached.`
 
 - **DELETE** -- Delete existing physician(s)
@@ -189,9 +196,13 @@ The list below shows only those attributes that are required for v1.
 
 - **GET** -- Get existing patient(s)
 > **/patients** -- `It returns the full list of patients with all required attributes.`
+<br>
 > **/patient/{id}**   -- `It returns the list of required attributes for this patient.`
+<br>
 > **patient/{id}/conditions**  -- `It returns the Patient's Medical Conditions.`
+<br>
 > **patient/{id}/appointments** -- `It returns the patient's next 2 weeks appointments.`
+<br>
 >  **patient/{id}/prescriptions** -- `It returns the full list of prescriptions issued to this patient.`
 
 - **PUT** -- Updates existing patient(s)
@@ -199,6 +210,7 @@ The list below shows only those attributes that are required for v1.
 
 - **POST** -- Creates new patient(s)
 > **/patients** -- JSON payload expected with list of patients attributes attached.
+<br>
 > **/patient**   -- JSON payload expected with patient's attributes attached.
 
 - **DELETE** -- Delete existing patient(s)
@@ -246,6 +258,7 @@ The list below shows only those attributes that are required for v1.
 
 - **GET** -- Get existing appointment(s)
 > **/appointments** -- `It returns the full list of existing appointments with all required attributes.`
+<br>
 > **/appointment/{id}**   -- `It returns the list of required attributes for this appointment.`
 
 - **PUT** -- Updates existing appointment(s)
@@ -253,6 +266,7 @@ The list below shows only those attributes that are required for v1.
 
 - **POST** -- Creates new appointment(s)
 > **/appointments** -- JSON payload expected with list of appointments attributes attached.
+<br>
 > **/appointment**   -- JSON payload expected with appointment's attributes attached.
 
 - **DELETE** -- Delete existing appointment(s)
@@ -310,6 +324,7 @@ The list below shows only those attributes that are required for v1.
 
 - **GET** -- Get existing prescription(s)
 > **/prescriptions** -- `It returns the full list of issued prescriptions with all required attributes.`
+<br>
 > **/prescription/{id}**   -- `It returns the list of required attributes for this prescription.`
 
 - **PUT** -- Updates existing prescription(s)
@@ -317,6 +332,7 @@ The list below shows only those attributes that are required for v1.
 
 - **POST** -- Creates new prescription(s)
 > **/prescriptions** -- JSON payload expected with list of prescriptions attributes attached.
+<br>
 > **/prescription**   -- JSON payload expected with prescription's attributes attached.
 
 - **DELETE** -- Delete existing prescription(s)
@@ -363,10 +379,12 @@ The list below shows only those attributes that are required for v1.
 
 - **GET** -- Get existing patient's medical measure(s)
 > **/measures** -- `It returns the full list of measures with all required attributes.`
+<br>
 > **/measure/patient/{id}**   -- `It returns the list of measures conducted on patient id`
 
 - **POST** -- Creates new patient's medical measure(s)
 > **/measures** -- JSON payload expected with list of full patients list medical measures attached. This API is merely used for maintenance/data recovery purposes.
+<br>
 > **/measure/patient/{id}**   -- JSON payload expected with a new patient medical measure  attached.
 
 - **DELETE** -- Delete existing patient's medical measure(s)
@@ -416,6 +434,7 @@ The list below shows only those attributes that are required for v1.
 
 - **GET** -- Get existing drug(s)
 > **/drugs** -- `It returns the full list of existing drugs in the inventory with all required attributes.`
+<br>
 > **/drug/{id}**   -- `It returns the list of required attributes for this drup.`
 
 - **PUT** -- Updates existing drug(s)
@@ -423,6 +442,7 @@ The list below shows only those attributes that are required for v1.
 
 - **POST** -- Creates new drug(s)
 > **/drugs** -- JSON payload expected with list of drugs attributes attached.
+<br>
 > **/drug**   -- JSON payload expected with drug's attributes attached.
 
 - **DELETE** -- Delete existing drug(s)
@@ -476,6 +496,7 @@ The list below shows only those attributes that are required for v1.
 
 - **GET** -- Get existing disease(s)
 > **/diseases** -- `It returns the full list of existing diseases in the catalogue with all required attributes.`
+<br>
 > **/disease/{id}**   -- `It returns the list of required attributes for this disease.`
 
 - **PUT** -- Updates existing disease(s)
@@ -483,6 +504,7 @@ The list below shows only those attributes that are required for v1.
 
 - **POST** -- Creates new disease(s)
 > **/diseases** -- JSON payload expected with list of diseases attributes attached.
+<br>
 > **/disease**   -- JSON payload expected with disease's attributes attached.
 
 - **DELETE** -- Delete existing disease(s)
