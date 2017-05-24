@@ -14,7 +14,7 @@ With the core application and internal API’s locked down as Version 1, the Cas
 <br>
 ----------
 
-| <center><img src="robotmedicine.jpg"></center> | <center><img src="cozmoanki.jpg"></center>  | 
+| <center><img src="robotmedicine.jpg" width="250" height="200"></center> | <center><img src="cozmoanki.jpg"  width="250" height="200"></center>  | 
 
 
 
