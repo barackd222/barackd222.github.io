@@ -15,8 +15,7 @@
 | ![link text](jlo.jpg "Jason Lowe")  | <a href="https://www.linkedin.com/in/jasonloweinbne/">Jason Lowe</a> | DevOps Architect |
 | ![link text](oz.jpg "Ozayr Syed")  | <a href="https://www.linkedin.com/in/ozayrsyed/">Ozayr Syed</a> | IOT Architect |
 | ![link text](johngraves.jpg "John Graves")  | <a href="https://www.linkedin.com/in/john-graves-963b83/">John Graves</a> | IOT Architect |
-
-
+| ![link text](vijay.jpg "Vijay Kumar Yenne")  | <a href="https://www.linkedin.com/in/vijaykumaryenne/">Vijay Kumar Yenne</a> | DX Lead |
 
 
 
