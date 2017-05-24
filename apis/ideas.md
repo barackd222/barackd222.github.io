@@ -1,8 +1,8 @@
-**MedRec Platform Vision - External APIs**
+**eHealth Ideas Platform APIs - v1 (MVP)**
 ===================
 
 
-This page describes the APIs that are required as part of **v1**.
+This page describes the APIs that are required as part of **v1** for the  **eHealth Ideas Platform**. 
 
 
 ----------
@@ -490,7 +490,4 @@ The list below shows only those attributes that are required for v1.
 
 
 
-----------
-
-<a href="index" rel="Go back">![link text](back.png "Go Back")</a>
 

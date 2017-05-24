@@ -1,8 +1,8 @@
-**MedRec Platform Vision Internal APIs**
+**MedRec2 APIs - v1 (MVP)**
 ===================
 
 
-This page describes the APIs that are required as part of **v1** for the  **MedRecNG**. 
+This page describes the APIs that are required as part of **v1** for the  **MedRec2**. 
 
 ----------
 
@@ -270,10 +270,3 @@ The list below shows only those attributes that are required for v1. It is expec
 - **DELETE** -- Delete existing disease(s)
 > **/diseases** -- JSON payload with list of diseases Ids to be removed.
 > **/disease/{id}**   -- Deletes a disease by Id.
-
-
-
-----------
-
-<a href="index" rel="Go back">![link text](back.png "Go Back")</a>
-
