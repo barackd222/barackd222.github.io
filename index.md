@@ -13,7 +13,9 @@ With the core application and internal API’s locked down as Version 1, the Cas
 
 
 <br><center>
+
 ![link text](robotmedicine.jpg "MedRec Platform Vision")
+
 </center>
 
 
@@ -43,8 +45,10 @@ o	Others
 
 ----------
 <center>
+
 | <a href="gitmedrecng" rel="GIT repo">![link text](git.png "GIT")</a>  | <a href="teachme" rel="Teach Me">![link text](teachMe.png "Teach Me")</a>  | 
 | <a href="externalapis" rel="External APIs">![link text](externalapis.png "External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text](internalapis.png "GIT")</a>  |
+
 </center>
 
 
