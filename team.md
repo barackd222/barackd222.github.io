@@ -23,6 +23,8 @@
 | <img src="franco.jpg" width="198" height="198">  | <a href="https://www.linkedin.com/in/franco-ucci-9007076b/">Franco Ucci</a> | Visionary Lead |
 
 ----------
+If you are interested in being a part on this project please contact ali.mukadam@oracle.com
 
+---------
 <a href="index" rel="Go back">![link text](back.png "Go Back")</a>
 
