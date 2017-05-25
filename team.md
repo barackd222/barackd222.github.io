@@ -1,4 +1,4 @@
-**Anki-MedRec Platform Vision**
+**Anki-MedRec Platform**
 ===================
 
 **Dream Team**
