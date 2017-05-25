@@ -1,4 +1,4 @@
-**Anki-MedRec Platform Vision**
+**Anki-MedRec Platform**
 ===================
 
 
@@ -9,7 +9,17 @@ The MedRec Platform is essentially a playpen with some basic elements at its cor
 - a modern User Interface rolled on top of the API's developed for MedRec NG to demonstrate what is possible re improved customer experience.
 -	Java based internal APIs that support CRUD operations against MedRec NG to provide a starting point upon which participants can bring their innovative ideas to explore and prove.
 
-With the core application and internal API’s locked down as Version 1, the Castle will then serve as a vehicle to overlay innovative ideas and implement them using various Oracle (IaaS, PaaS, SaaS) services and Open Source software to demonstrate proof points around the ideas. It is anticipated that this opportunity to innovate will generate activity from Oracle Pre-Sales, Partners and Developers and support Hackathon activities during FY18.
+With the core application and internal API’s locked down as Version 1, the MedRec Platform Playpen will then serve as a vehicle to overlay innovative ideas and implement them using various Cloud Services (IaaS, PaaS, SaaS) and Open Source software to demonstrate proof points around the ideas. 
+
+It is hoped that this platform will encourage fun, learning and innovation from a number of perspectives whether you are running a workshop, running a conference, or a hackathon or just sefl-learning aroubnd the following areas;
+- Ployglot Development (JEE, JavaScript, Python, Node,js etc)
+- API's
+- Integration
+- Security
+- Containers, Registries
+- Source Code Management and Control (GitHub)
+- Operating System (Linux)
+- Mobility, Chatbots, Robotics
 
 <br>
 <center>
@@ -17,13 +27,13 @@ With the core application and internal API’s locked down as Version 1, the Cas
 </center>
 
 
-## Target Audience / Usage
+## Who is this for?
 
-The Castle will support a diverse range of users and activities, such as,
+The MedRec Platform Playpen supports a diverse range of users and activities, such as,
 
--	Sales and Pre-Sales (functional demonstrations of Oracle Cloud Services)
--	Pre-Sales (technical demonstrations and POC's of Oracle Cloud Services)
--	Pre-Sales Speed To Value Workshops: 
+-	Business Managers walking through functional demonstrations of a Digital Platform
+-	Platform Architects walking through technical aspects of a Digital Platform
+- 	Growing set of Speed To Value Workshops:
 <br>
 o	CloudInAction
 <br>
@@ -33,11 +43,13 @@ o	DevelopersInAction
 <br>
 o	Others
 <br>
--	Oracle Business Partners 
+-	Cloud Platform Service Providers such as Rubicon Red, Limepoint, DXC RedRock etc
 <br>
--	Developers in Hackathons
+-	Developers participating in Hackathons
 <br>
 -	University Students
+<br>
+-	Anyone interested in improving their understanding of what makes a Cloud Based Digital Platform
 
 
 ----------
