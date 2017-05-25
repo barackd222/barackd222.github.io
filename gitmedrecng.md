@@ -18,7 +18,7 @@ This tutorial describes breaking down a monolithic application into a microservi
 
 1. Clone and run
 ```bash
-$ git clone **TBD**
+$ git clone https://github.com/barackd222/medrecng
 $ cd medrecng
 $ git checkout dev
 $ mvn -Pdev spring-boot:run
