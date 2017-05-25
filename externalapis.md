@@ -1,4 +1,4 @@
-**Anki-MedRec Platform Vision - External APIs**
+**Anki-MedRec Platform - External APIs**
 ===================
 
 
