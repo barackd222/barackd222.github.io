@@ -55,7 +55,7 @@ o	Others
 ----------
 
 | <a href="gitmedrecng" rel="GIT repo">![link text](./img/git.png "GIT")</a>  | <a href="teachme" rel="Teach Me">![link text](./img/teachMe.png "Teach Me")</a>  | 
-| <a href="externalapis" rel="External APIs">![link text](./img/externalapis.png "External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text](./img/internalapis.png "GIT")</a>  |
+| <a href="http://dev-apis.oracleau.cloud:3006/" rel="External APIs">![link text](./img/externalapis.png "External APIs")</a>  | <a href="internalapis" rel="Internal APIs">![link text](./img/internalapis.png "GIT")</a>  |
 | <a href="team" rel="Team">![link text](./img/team.png "Team")</a>  | <a href="hackathons" rel="Hackathons">![link text](./img/hackathons.png "Hackathons")</a>  |
 
 
