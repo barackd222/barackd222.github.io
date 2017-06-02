@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+.btn {
+    background-color: rgba(0, 128, 128, 1);
+}
+.btn:hover {
+    background-color: rgba(0, 128, 128, 1);
+}
+
+.main-content hr {
+    height: 2px;
+    padding: 0;
+    margin: 1rem 0;
+    background-color: #008080;
+    border: 0;
+}
+
