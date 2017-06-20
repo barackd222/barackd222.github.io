@@ -8,7 +8,6 @@ MedRec is a project that provides multiple APIs around "Medical Records" use cas
 
 MedRec can be forked/cloned from GitHub and installed locally. The idea to allow a local installation, is to give the opportunity to Developers to fork and extend an independent installation of MedRec.
 
-Additionally, MedRec is also available as a managed service (MedRec aaS), so that API consumers can interact with existing APIs, without requiring to install any software. This aims to  allow a quick and easy API consumption for generating new Innovative Ideas.
 
 ## Stand-alone Installation: 
 
@@ -67,12 +66,9 @@ MedRec project can be easily built and run in the Oracle Public Cloud using Dock
 3.5 Once deployed, 2 nodes will be green (up and running). Grab the Public IP Address and go to: [http://IP-ADDRESS:3000](http://IP-ADDRESS:3000). You can also SSH into the new Worker Node(s) and shell into the Docker containers.
 
 
-## MedRec as a Service: 
-
-In progress, stay tunned!
 
 
-
+<br>
 <hr />
 <a hr
 ef="index" class="btn" >Go Back Home</a>
