@@ -12,11 +12,11 @@ Additionally, MedRec is also available as a managed service (MedRec aaS), so tha
 
 ## Stand-alone Installation: 
 
-There are 3 different ways developer can quickly install a stand-alone verison of MedRec APIs:
+There are 3 different options developers can quickly install a stand-alone verison of MedRec APIs:
 
-Option 1) Manual Installation in Operating System:
-Option 2) Docker containers built and run locally:
-Option 3) Docker Containers running in the Oracle Public Cloud: 
+1) Manual Installation in Operating System.
+2) Docker containers built and run locally.
+3) Docker Containers running in the Oracle Public Cloud. 
 
 ### Option 1 - Manual Installation in Operating System:
 
