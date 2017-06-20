@@ -67,6 +67,10 @@ MedRec project can be easily built and run in the Oracle Public Cloud using Dock
 3.5 Once deployed, 2 nodes will be green (up and running). Grab the Public IP Address and go to: [http://IP-ADDRESS:3000](http://IP-ADDRESS:3000). You can also SSH into the new Worker Node(s) and shell into the Docker containers.
 
 
+## MedRec as a Service: 
+
+TBD
+
 
 
 <hr />
