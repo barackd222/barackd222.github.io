@@ -13,9 +13,9 @@ MedRec can be forked/cloned from GitHub and installed locally. The idea to allow
 
 There are 3 different options developers can quickly install a stand-alone verison of MedRec APIs:
 
-1) Manual Installation in Operating System.
-2) Docker containers built and run locally.
-3) Docker Containers running in the Oracle Public Cloud. 
+    1) Manual Installation in Operating System.
+    2) Docker containers built and run locally.
+    3) Docker Containers running in the Oracle Public Cloud. 
 
 ### Option 1 - Manual Installation in Operating System:
 
