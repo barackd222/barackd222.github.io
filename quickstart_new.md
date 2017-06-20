@@ -2,7 +2,7 @@
 ===================
 
 
-# Medrec Microservices Documentation
+# Medrec Microservices Installation 
 
 MedRec is a project that provides multiple APIs around "Medical Records" use cases. The intention is to generate API consumption for Ideas pursuing Innovation. 
 
