@@ -14,15 +14,15 @@ Additionally, MedRec is also available as a managed service (MedRec aaS), so tha
 
 There are 3 different ways developer can quickly install a stand-alone verison of MedRec APIs:
 
-1. Manual Installation in Operating System:
-2. Docker containers built and run locally:
-3. Docker Containers running in the Oracle Public Cloud: 
+Option 1) Manual Installation in Operating System:
+Option 2) Docker containers built and run locally:
+Option 3) Docker Containers running in the Oracle Public Cloud: 
 
-### 1. Manual Installation in Operating System:
+### Option 1 - Manual Installation in Operating System:
 
 MedRec project is publicly available in Github, please follow the README file to complete the installation. Go to: [Anki-MedRec-APIs](https://github.com/barackd222/ankimedrec-apis)
 
-### 2. Docker containers built and run locally:
+### Option 2 - Docker containers built and run locally:
 
 MedRec project can be easily built and run locally using Docker containers. MedRec project is publicly available in Github, please follow the README file to complete the installation. Go to: [Anki-MedRec-APIs](https://github.com/barackd222/ankimedrec-apis)
 
@@ -51,7 +51,7 @@ $ docker-compose up
 ```
 
 
-### 3. Docker Containers running in the Oracle Public Cloud:
+### Option 3 - Docker Containers running in the Oracle Public Cloud:
 
 MedRec project can be easily built and run in the Oracle Public Cloud using Docker containers. You can deploy your own MedRec Images, or use the default one [publicly available in Dockerhub](https://hub.docker.com/r/barackd222/ankimedrec-apis/). In this section we are going to show you how to run your MedRec APIs in Oracle Container Cloud Service.
 
