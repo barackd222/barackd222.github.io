@@ -69,7 +69,7 @@ MedRec project can be easily built and run in the Oracle Public Cloud using Dock
 
 ## MedRec as a Service: 
 
-TBD
+In progress, stay tunned!
 
 
 
