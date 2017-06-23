@@ -40,9 +40,16 @@ $ cd ankimedrec-apis
 ```
 2.4 Configure properties:
 
-Open and edit file `config.json`set:
+Open and edit file `config.json`set `MONGODB_SERVER_LOCATION`, to its running location. 
 
-"RUNNING_MODE":"**docker**",
+For example:
+
+    - If running locally in a Host Operating System:
+        e.g. "MONGODB_SERVER_LOCATION":"**localhost**",
+    - If running Mongo remotely in some IaaS:
+        e.g. "MONGODB_SERVER_LOCATION":"**150.5.22.56**",
+    - If running Mongo as a Docker container, set the name of the Mongo Docker image (i.e. `mongo` if using the default DockerHub Mongo Docker instance)
+        e.g. "MONGODB_SERVER_LOCATION":"**mongo**",
 
 `Optionally, you might want to modify the default running Port (i.e. PORT 3000) or other properties as well.`
 
