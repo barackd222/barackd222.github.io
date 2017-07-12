@@ -37,18 +37,18 @@ I had an existing key so I chose File.
 
 Specify the username (admin) and password 
 Choose the compute shape. To preserve your credits I suggest leave the default.
-Choose the number of worker nodes you want to spread your Docker workload over.
-In my example you can get away with 1 worker node to run both the web app contaioner and the MongoDB container.
+Choose the number of worker nodes you want to spread your Docker workload across.
+In my example you can get away with 1 worker node to run both the web app container and the MongoDB container.
 
 <img src="./img/occs-8.PNG" />
 
-Review your configuration on the Sumamry Page.
+Review your configuration on the Summary Page.
 Click Create.
 
 <img src="./img/occs-9.PNG" />
 
 You will see that your Service is being created.
-It took around 5 minutes to provision the service,
+It took around 5 minutes to provision the service.
 Periodically click the refresh icon to view progress.
 
 <img src="./img/occs-10.PNG" />
@@ -87,9 +87,9 @@ Click Advanced Editor
 
 <img src="./img/occs-18.PNG" />
 
-Copy the contents of the occs-stack.yml file (located in the ankimedrec-apis project you forked previously).
+Copy the contents of the occs-stack.yml file (it is located in the ankimedrec-apis project you git forked previously).
 Paste the contents into the Advanced Editor.
-Notice that the stack defintion contains two services - one for Node.js applicaiton, the other for MongoDB.
+Notice that the stack defintion contains two linked services - one for Node.js application, the other for MongoDB.
 
 <img src="./img/occs-19.PNG" />
 
@@ -119,7 +119,7 @@ In the page showing details about the specific host (worker node) that the stack
 
 <img src="./img/occs-25.PNG" />
 
-In a new browser tab - enter http://theIPoftheworkernode:3000
+In a new browser tab - enter **http://theIPoftheworkernode:3000**
 You should now see the Swagger UI.
 
 <img src="./img/occs-26.PNG" />
