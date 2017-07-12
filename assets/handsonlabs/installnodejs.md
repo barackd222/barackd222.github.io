@@ -6,7 +6,7 @@
 
 The Node.js install is required to run the MedRec application.
 This section provides instructions for you to install Node.js. 
-For your platform specific install please refer [Nodejs.org](https://nodejs.org/en/download/). 
+For your platform specific download and instructions please refer [Nodejs.org](https://nodejs.org/en/download/). 
 
 Note: I used the Ubuntu 16.04 Linux distribution, and installed Node 4.8 when the application was built and tested. There are later versions of Node.js (eg 6.x) available. The following Node.js versions are currently supported on Oracle Application Container Cloud Servcie (ACCS) - 0.10, 0.12, 4.x, 6.x .
 
