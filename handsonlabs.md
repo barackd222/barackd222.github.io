@@ -55,7 +55,7 @@ In the following labs you will setup Node.js on Oracle PaaS (Application Contain
 
 #### Interact with Anki Cozmo
 
-Assuming you have an Anki Cozmo robot, you may want to fork the [barackd222/ankimedrec-cozmo]("https://github.com/barackd222/ankimedrec-cozmo") git repository and start to explore your pythion skills. 
+Assuming you have an Anki Cozmo robot, you may want to fork the [barackd222/ankimedrec-cozmo]("https://github.com/barackd222/ankimedrec-cozmo") git repository and start to explore your python skills. 
 Note: No additional hands on material is available at this stage.
 
 <hr />
