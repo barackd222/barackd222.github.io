@@ -41,9 +41,11 @@ Note: It is assumed you have already created the OCCS Service using your trial a
 
 - [Run and test the Node API and Mongo Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
 
-#### Try out the Application User Interface developed in Vue.js
+#### Try out the Responsive Web App connecting to the Medrec APIs
 
-- [Under Development - Clone and Run the Vue User Interface to connect to the APIs](./assets/handsonlabs/medrecui.md)
+Following the micro services architecture pattern, we have decoupled the Web application from the server side API's. In this lab we have provided a sample responsive web application developed using a progressive web framework. The app invokes and performs CRUD operations on the Medrec APIs available.
+
+- [Run and test the web app on your local machine](./assets/handsonlabs/medrecui.md)
 
 #### Provision the application and MongoDB using Oracle Cloud Services
 
