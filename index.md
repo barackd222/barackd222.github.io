@@ -70,7 +70,7 @@ You may decide to add more capability into the API implementation, or add additi
 
 ### Cozmo Gets A Cold
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/ZGp4rkH2eTw" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/leOZ1fUTFeE" frameborder="0" allowfullscreen></iframe>
 
 <sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](david.m.reid@oracle.com) | [Carlos Rodriguez Iturria](carlos.rodriguez.iturria@oracle.com)</sub>
 

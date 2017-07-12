@@ -6,6 +6,8 @@
 
 This section provides instructions to provision a Virtual machine with MongoDB pre-installed using Oracle Infrastructure As A Service (IaaS).
 
+https://redthunder.blog/2017/03/03/teaching-how-to-use-bitnami-to-deploy-any-image-into-oracle-public-cloud/
+
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
