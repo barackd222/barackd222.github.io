@@ -26,11 +26,11 @@ The Anki-MedRec will serve as a vehicle to overlay innovative ideas and implemen
 
 So by now you have already worked it out, we have developed the API's to help us to get to do some creative, fun, learning real fast.
 
-## Watch our Overview Video (< 5 minutes):
+## Watch our brief Overview Videos:
 <br>
-<center>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video" width="360" height="240" border="10"/></a>
-</center>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video"/></a>
+<a href="https://youtu.be/9ra_guIjce8" rel="nofollow noreferrer" title="SignUp To Get API Key Video"><img src="https://img.youtube.com/vi/9ra_guIjce8/1.jpg" alt="Request an API Key"/></a>
+<a href="https://youtu.be/9ra_guIjce8" rel="nofollow noreferrer" title="SignUp To Get API Key Video"><img src="https://img.youtube.com/vi/9ra_guIjce8/2.jpg" alt="Request an API Key"/></a>
 <br>
 ## Who is this for?
 <br>
@@ -58,16 +58,6 @@ You may decide to add more capability into the API implementation, or add additi
 <br>
 [Register to access the APIs](http://developers.oracleau.cloud) |
 [OracleCode HandsOn Lab](handsonlabs.md) | [Hackathons](hackathons.md) |
-<br>
-<br>
-## MedRec Version 1 (Java Spring-Boot based initiative)
-<br>
-This scope of work was used to experiment with Open Source Logging and Monitoring capabilities.
-If you are interested there are some detailed tutorials to follow.
-Unfortunately the V1 APIs vary in shape from the v2 APIs. This may be addressed in a future update.
-<br>
-[Quickstart](quickstart.md)  | [Tutorials](tutorials.md) | 
-[Spring Boot APIs](https://medrec-gse00010209.apaas.em2.oraclecloud.com/swagger.html) | 
 <br>
 <sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](david.m.reid@oracle.com) | [Carlos Rodriguez Iturria](carlos.rodriguez.iturria@oracle.com)</sub>
 
