@@ -31,24 +31,29 @@
 
 - [Build and Run the Dockerised API application](./assets/handsonlabs/buildthedockerimage.md)
 
-Assuming the docker containers are up and running locally, choose your preferred client from the following options in order to interact with the REST APIs and prove that it all still works.
-- [Explore the APIs using SwaggerUI](./assets/handsonlabs/exploretheapis-1.md)
-
-#### Try out the Application User Interface developed in Vue.js
-
-- [TBC - Optional Lab 1 - Clone and Run the Vue User Interface to connect to the APIs](./assets/handsonlabs/medrecui.md)
+Assuming the docker containers are up and running locally, use Swagger or your preferred client to interact with the REST APIs and prove that it all still works.
+Note: You will need to find out the IP address of your Web (Node) container in order to point your browser to the SwaggerUI and / or other clients.
 
 #### Running the APIs on the Oracle Container Cloud Service
 
-Next you will login to the Oracle Container Cloud Service (OCCS) and create a stack definition for the MedRec APi (web and mongodb tier).
+Instead of running your Docker containers on your laptop, this time you will login to the Oracle Container Cloud Service (OCCS) and create a stack definition for the MedRec APi (web and mongodb tier) as per the following instructions. 
+Note: It is assumed you have already created the OCCS Service using your trial account details.
 
 - [Run and test the Node API and Mongo Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
+
+#### Try out the Application User Interface developed in Vue.js
+
+- [TBC - Clone and Run the Vue User Interface to connect to the APIs](./assets/handsonlabs/medrecui.md)
 
 #### Provision the application and MongoDB using Oracle Cloud Services
 
 Setup Node.js/MongoDB on Oracle IaaS and PaaS (ACCS)
-- [TBC - Optional Lab 2 - Provision MongoDB VM on Oracle IaaS](./assets/handsonlabs/mongodboniaas.md)
-- [TBC - Optional Lab 3 - Create Application on Application Container Cloud Service](./assets/handsonlabs/medrecapisonaccs.md)
+- [TBC - Provision MongoDB VM on Oracle IaaS](./assets/handsonlabs/mongodboniaas.md)
+- [TBC - Create Application on Application Container Cloud Service](./assets/handsonlabs/medrecapisonaccs.md)
+
+#### Interact with Anki Cozmo
+
+Assuming you have an Anki Cozmo robot, you may want to fork the barackd222/ankimedrec-cozmo git repository and start to play. No additional hands on material is available at this stage.
 
 <hr />
 <center>
