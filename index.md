@@ -1,6 +1,4 @@
-**The Anki-MedRec Platform**
-===================
-
+## The Anki-MedRec Platform**
 
 The Anki-MedRec initiative is essentially an experimental platform with some basic elements at its core such as:
  
@@ -26,13 +24,11 @@ The Anki-MedRec will serve as a vehicle to overlay innovative ideas and implemen
 
 So by now you have already worked it out, we have developed the API's to help us to get to do some creative, fun, learning real fast.
 
-## Watch our brief Overview Videos:
+### Check out the brief Overview Video:
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/MDGg1r9CtCw" frameborder="0" allowfullscreen></iframe>
-<a href="https://youtu.be/9ra_guIjce8" rel="nofollow noreferrer" title="SignUp To Get API Key"><img src="https://img.youtube.com/vi/9ra_guIjce8/1.jpg" alt="Request an API Key"/></a>
-<a href="https://www.youtube.com/watch?v=ZGp4rkH2eTw" rel="nofollow noreferrer" title="Cozmo Gets Sick"><img src="https://img.youtube.com/vi/ZGp4rkH2eTw/1.jpg" alt="Cozmo Gets Sick"/></a>
 
-## Who is this for?
+### Who is this for?
 
 The MedRec Platform Playpen supports a diverse range of users and activities, such as:
 
@@ -48,13 +44,7 @@ The MedRec Platform Playpen supports a diverse range of users and activities, su
 -	University Students
 -	Community Involvement - essentially anyone who is interested in improving their understanding of what makes a Cloud Based Digital Platform.
 
-## Where could this go? Community Involvement:
-
-The Node.js API's are a place to start, a beginning. We have created something that we know isn't perfect or particularly robust but the APIs seem to be functional. For instance. you can add Physicians,Patients, create prescriptions and record Observations. We know that there are lots of smart people out there who like to explore, experiment and improve things, so if you are interested, why not fork the git repository and start with your idea to improve. 
-
-You may decide to add more capability into the API implementation, or add additional APIs or maybe you want to connect a wearable device or an Anki-Cozmo robot to interact with the APIs. 
-
-## Get Started with AnkiMedRec-APIs Version 2 
+### Get Started with AnkiMedRec-APIs Version 2 
 
 The AnkiMedRec version 2 APIs are based on Node.js and interact with MongoDBas the datastore.
 Getting started with the APIs is easy. All you need to do is register as a developer to obtain an API key and follow the hands on lab instructions to do all / any of the following;
@@ -67,7 +57,21 @@ Getting started with the APIs is easy. All you need to do is register as a devel
 
 [Register to access the APIs](http://developers.oracleau.cloud) |
 [OracleCode HandsOn Lab](handsonlabs.md) | [Hackathons](hackathons.md) |
-<br>
+
+### Accessing the APIs using your API Key 
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/9ra_guIjce8" frameborder="0" allowfullscreen></iframe>
+
+### Where could this go? Community Involvement:
+
+The Node.js API's are a place to start, a beginning. We have created something that we know isn't perfect or particularly robust but the APIs seem to be functional. For instance. you can add Physicians,Patients, create prescriptions and record Observations. We know that there are lots of smart people out there who like to explore, experiment and improve things, so if you are interested, why not fork the git repository and start with your idea to improve. 
+
+You may decide to add more capability into the API implementation, or add additional APIs or maybe you want to connect a wearable device or an Anki-Cozmo robot to interact with the APIs. 
+
+### Cozmo Gets A Cold
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/ZGp4rkH2eTw" frameborder="0" allowfullscreen></iframe>
+
 <sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](david.m.reid@oracle.com) | [Carlos Rodriguez Iturria](carlos.rodriguez.iturria@oracle.com)</sub>
 
 <hr/>
