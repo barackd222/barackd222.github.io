@@ -29,8 +29,8 @@ So by now you have already worked it out, we have developed the API's to help us
 ## Watch our brief Overview Videos:
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MDGg1r9CtCw&t=27s" rel="nofollow noreferrer" title="MedRec API PlayPen Video"><img src="https://img.youtube.com/vi/MDGg1r9CtCw/3.jpg" alt="MedRec API PlayPen Video"/></a>
-<a href="https://youtu.be/9ra_guIjce8" rel="nofollow noreferrer" title="SignUp To Get API Key Video"><img src="https://img.youtube.com/vi/9ra_guIjce8/1.jpg" alt="Request an API Key"/></a>
-<a href="https://youtu.be/9ra_guIjce8" rel="nofollow noreferrer" title="SignUp To Get API Key Video"><img src="https://img.youtube.com/vi/9ra_guIjce8/2.jpg" alt="Request an API Key"/></a>
+<a href="https://youtu.be/9ra_guIjce8" rel="nofollow noreferrer" title="SignUp To Get API Key"><img src="https://img.youtube.com/vi/9ra_guIjce8/1.jpg" alt="Request an API Key"/></a>
+<a href="https://www.youtube.com/watch?v=ZGp4rkH2eTw" rel="nofollow noreferrer" title="Cozmo Gets Sick"><img src="https://img.youtube.com/vi/ZGp4rkH2eTw/1.jpg" alt="Cozmo Gets Sick"/></a>
 <br>
 ## Who is this for?
 <br>
@@ -39,14 +39,14 @@ The MedRec Platform Playpen supports a diverse range of users and activities, su
 -	Business Managers walking through functional demonstrations of a Digital Platform
 -	Platform Architects walking through technical aspects of a Digital Platform
 - 	Growing set of Speed To Value Workshops:
-    - Cloud In Action
-    - APIs In Action
-    - Developers In Action
+    - Cloud Made Easy
+    - APIs Made Easy
+    - Development Made Easy
     - Others
 -	Cloud Platform Service Providers such as Rubicon Red, Limepoint, DXC RedRock etc
 -	Developers participating in Hackathons
 -	University Students
--	Community Involvement - essentially anyone who is interested in improving their understanding of what makes a Cloud Based Digital Platform
+-	Community Involvement - essentially anyone who is interested in improving their understanding of what makes a Cloud Based Digital Platform.
 
 ## Where could this go? Community Involvement:
 <br>
