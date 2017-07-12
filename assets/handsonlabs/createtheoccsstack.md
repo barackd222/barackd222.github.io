@@ -5,129 +5,128 @@
 ### Create the OCCS Instance 
 This section provides instructions to create an OCCS Service Instance, create a Stack definition and deploy the MedRec app and MongoDB into Docker containers on OCCS.
 
-It is assumed that you already have registered for an Oracle Public Clou=d subscription.
+It is assumed that you already have registered for an Oracle Public Cloud subscription.
+From the Service Dashboard click Container.
 
 <img src="./img/occs-1.PNG" />
 
-Click
+Click Open Service Console button
 
 <img src="./img/occs-2.PNG" />
 
-Click 
+Click Create Service button
 
 <img src="./img/occs-3.PNG" />
 
-Click
+Giev you Service a name and description.
 
 <img src="./img/occs-4.PNG" />
 
-Click
+For example - as follows
 
 <img src="./img/occs-5.PNG" />
 
-Click
+If you have an existing RSA public/private key pair choose File to browse for your Public Key,
+Otherwise click to Create A New Key.
 
 <img src="./img/occs-6.PNG" />
 
-Click 
+I had an existing key so I chose File.
 
 <img src="./img/occs-7.PNG" />
 
-Click 
+Specify the username (admin) and password 
+Choose the compute shape. To preserve your credits I suggest leave the default.
+Choose the number of worker nodes you want to spread your Docker workload over.
+In my example you can get away with 1 worker node to run both the web app contaioner and the MongoDB container.
 
 <img src="./img/occs-8.PNG" />
 
-
-Click 
+Review your configuration on the Sumamry Page.
+Click Create.
 
 <img src="./img/occs-9.PNG" />
 
-
-Click 
+You will see that your Service is being created.
+It took around 5 minutes to provision the service,
+Periodically click the refresh icon to view progress.
 
 <img src="./img/occs-10.PNG" />
 
-
-Click 
+After around 5 minutes the "Creating Service" message will disappear as the Service is now created.
 
 <img src="./img/occs-11.PNG" />
 
-
-Click 
+Click the Hamburger menu on the right side of the service and choose Container Console.
 
 <img src="./img/occs-12.PNG" />
 
-
-Click 
+You will see a insecure site warning message.
+Click Advanced.
 
 <img src="./img/occs-13.PNG" />
 
-
-Click 
+Click to Proceed and igmore the warning.
 
 <img src="./img/occs-14.PNG" />
 
-
-Click 
+Enter the credentials you specified when you created the service eg admin / password1
 
 <img src="./img/occs-15.PNG" />
 
-
-Click 
+In the Container Console note the number of hosts allocated to the default Resource Pool.
 
 <img src="./img/occs-16.PNG" />
 
-
-Click 
+To define a Stack - Click Stacks in the left hand menu.
+Click the New Stack button.
 
 <img src="./img/occs-17.PNG" />
 
-
-Click 
+Click Advanced Editor
 
 <img src="./img/occs-18.PNG" />
 
-
-Click 
+Copy the contents of the occs-stack.yml file (located in the ankimedrec-apis project you forked previously).
+Paste the contents into the Advanced Editor.
+Notice that the stack defintion contains two services - one for Node.js applicaiton, the other for MongoDB.
 
 <img src="./img/occs-19.PNG" />
 
-
-Click 
+Name your Stack something meaningful eg MedRec
+Press Save
 
 <img src="./img/occs-20.PNG" />
 
-
-Click 
+In the list of available Stacks you should now see your MedRec stack.
+Click the Deploy button to deploy your MedRec Stack.
 
 <img src="./img/occs-21.PNG" />
 
-
-Click 
+In the Orchestration dialog accept the defaults and press Deploy.
 
 <img src="./img/occs-22.PNG" />
 
-
-Click 
+You will see some activity and the screen will flash orange and green until both services are up and running.
 
 <img src="./img/occs-23.PNG" />
 
-
-Click 
+When the screen displays green for both services, click the Hostname that the stack has been deployed to.
 
 <img src="./img/occs-24.PNG" />
 
-
-Click 
+In the page showing details about the specific host (worker node) that the stack is running on, you will see the Public IP address.
 
 <img src="./img/occs-25.PNG" />
 
-
-Click 
+In a new browser tab - enter http://theIPoftheworkernode:3000
+You should now see the Swagger UI.
 
 <img src="./img/occs-26.PNG" />
 
-
+Do a GET Request. It should return an empty collection of Physicians.
+Do a POST Request to add a Physician.
+Repeat the GET Request to confirm that the Physician record was fetched from the database via the API call.
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
