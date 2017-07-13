@@ -1,4 +1,4 @@
-## The Anki-MedRec Platform**
+## The Anki-MedRec Platform
 
 The Anki-MedRec initiative is essentially an experimental platform with some basic elements at its core such as:
  
@@ -46,7 +46,7 @@ The MedRec Platform Playpen supports a diverse range of users and activities, su
 
 ### Get Started with AnkiMedRec-APIs Version 2 
 
-The AnkiMedRec version 2 APIs are based on Node.js and interact with MongoDBas the datastore.
+The AnkiMedRec version 2 APIs are based on Node.js and interact with MongoDB as the datastore.
 Getting started with the APIs is easy. All you need to do is register as a developer to obtain an API key and follow the hands on lab instructions to do all / any of the following;
 
 1. Access the APIs hosted on the Oracle Cloud protected by the Oracle API Platform Cloud Service.
@@ -55,8 +55,7 @@ Getting started with the APIs is easy. All you need to do is register as a devel
 4. Run the APIs inside a local Docker container
 5. Run the APIs inside a Docker Container provided by the Oracle Container Cloud Service 
 
-[Register to access the APIs](http://developers.oracleau.cloud) |
-[OracleCode HandsOn Lab](handsonlabs.md) | [Hackathons](hackathons.md) |
+[Register to access the APIs](http://developers.oracleau.cloud) | [OracleCode HandsOn Lab](handsonlabs.md) | [Hackathons](hackathons.md) |
 
 ### Accessing the APIs using your API Key 
 
