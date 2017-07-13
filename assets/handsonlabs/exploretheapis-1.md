@@ -15,11 +15,11 @@ Click the "Try It Out" button
 
 <img src="./img/swagger2.PNG" />
 
-Click Execute button 
+Click Execute button.
+
+Since it is a new installation, the list of Physicians is going to be empty.
 
 <img src="./img/swagger3.PNG" />
-
-Note the message returned. Since it is a new installation, the list of Physicians is going to be empty.
 
 Let's add some physicians next.
 
