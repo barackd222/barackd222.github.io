@@ -19,9 +19,9 @@ Click Execute button
 
 <img src="./img/swagger3.PNG" />
 
-Click the Execute button and note the message returned.
+Note the message returned. Since it is a new installation, the list of Physicians is going to be empty.
 
-<img src="./img/swagger4.PNG" />
+Let's add some physicians next.
 
 Click the blue GET button to collapse it and then press POST.
 
