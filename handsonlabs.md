@@ -19,7 +19,7 @@
 - [Access the locally running APIs using Python](./assets/handsonlabs/exploretheapis-2.md)
 
 ### Access the APIs hosted on Oracle Cloud protected using API Platform
-- [Register as a developer to get an API Key](https://apidevelopers-gse00011671.apaas.us2.oraclecloud.com/)
+- [Register as a developer to get an API Key](./assets/handsonlabs/exploretheapis-5a.md)
 - [Explore the Secured APIs with your API Key using Swagger](./assets/handsonlabs/exploretheapis-5.md)
 - [Explore the Secured APIs with your API Key using Postman](./assets/handsonlabs/exploretheapis-6.md)
 - [Explore the Secured APIs with your API Key using an online Python Service](./assets/handsonlabs/exploretheapis-4.md)
