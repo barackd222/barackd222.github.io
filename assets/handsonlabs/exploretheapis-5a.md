@@ -26,7 +26,7 @@ When you are done, click on the **Sign up** button.
 
 Important links to notice:
 
-- **a)** This is your secure **API-Key**, don't share it with anyone as it authenticates and authorises your account. You will need it to get access to the APIs in the following sections. 
+- **a)** This is your secured **API-Key**, don't share it with anyone as it authenticates and authorises your account. You will need it to get access to the APIs in the following sections. 
 - **b)** Click on your **username** to modify your contact details.
 - **c)** Click on **Change Password** link to change your password.
 - **d)** Click on the **Anki-MedRec APIs** link to get access to its Swagger UI (more details in the next section).
