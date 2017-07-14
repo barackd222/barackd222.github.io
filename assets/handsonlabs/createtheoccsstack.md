@@ -131,9 +131,12 @@ You should now see the Swagger UI.
 
 <img src="./img/occs-26.PNG" />
 
-Do a GET Request. It should return an empty collection of Physicians.
-Do a POST Request to add a Physician.
-Repeat the GET Request to confirm that the Physician record was fetched from the database via the API call.
+Do a **GET** Request. It should return an empty collection of Physicians.
+
+Do some **POST** Request to add some Physicians and Patients. Then repeat the **GET** Request to confirm that the new record were fetched from the MongoDB database via the API call.
+
+<br>
+<br>
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
