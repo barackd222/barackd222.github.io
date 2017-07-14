@@ -64,7 +64,7 @@ Further down you should see output generated similar to the following;
 
 <img src="./img/buildthedockerimage-6a.PNG" />
 
-**Note: If you see the following error, it means that there are ports clashing due to MongoDB and the Node application are still running locally due to port clash.**
+**Note: If you see the following error, it means that there are ports clashing due to MongoDB and the Node application are still running locally.**
 
 <img src="./img/buildthedockerimage-7.PNG" />
 
