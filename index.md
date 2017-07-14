@@ -71,7 +71,7 @@ You may decide to add more capability into the API implementation, or add additi
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/leOZ1fUTFeE?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](david.m.reid@oracle.com) | [Carlos Rodriguez Iturria](carlos.rodriguez.iturria@oracle.com)</sub>
+<sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](david.m.reid@oracle.com) | [Carlos Rodriguez Iturria](https://www.linkedin.com/in/citurria/)</sub>
 
 <hr/>
 
