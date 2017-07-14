@@ -51,6 +51,10 @@ Execute another GET Request for Physicians
 
 You should see that the request was allowed and Physician data is returned (assuming it already existed).
 
+Feel free to **POST** some new **Physicians** and **Patients** and **GET** those new records back successfully.
+
+<br><br>
+
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
 
