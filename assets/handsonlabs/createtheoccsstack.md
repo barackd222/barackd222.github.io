@@ -105,7 +105,8 @@ Name your Stack something meaningful eg MedRec. Then press **Save**
 <img src="./img/occs-20.PNG" />
 
 In the list of available Stacks you should now see your MedRec stack.
-Click the Deploy button to deploy your MedRec Stack.
+
+Click the green **Deploy** button to deploy your MedRec Stack.
 
 <img src="./img/occs-21.PNG" />
 
