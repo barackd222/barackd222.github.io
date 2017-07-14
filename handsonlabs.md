@@ -36,8 +36,8 @@ Below you will find a list of optional labs that will teach you how to use Docke
 
 - [Build and Run the Dockerised API application](./assets/handsonlabs/buildthedockerimage.md)
 
-Assuming the docker containers are up and running locally, use Swagger or your preferred client to interact with the REST APIs and prove that it all still works.
-Note: You will need to find out the IP address of your Web (Node) container in order to point your browser to the SwaggerUI and / or other clients.
+Challenge: Assuming the docker containers are up and running locally, use Postman or your preferred code snippet to interact with the REST APIs hosted inside your Docker container.
+
 
 #### Running the APIs on the Oracle Container Cloud Service
 
