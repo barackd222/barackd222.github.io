@@ -110,7 +110,7 @@ Click the green **Deploy** button to deploy your MedRec Stack.
 
 <img src="./img/occs-21.PNG" />
 
-In the Orchestration dialog accept the defaults and press Deploy.
+In the Orchestration dialog, you can choose the number of instances to be deployed per container. For now, simply accept the defaults and press **Deploy**.
 
 <img src="./img/occs-22.PNG" />
 
