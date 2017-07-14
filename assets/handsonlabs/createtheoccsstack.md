@@ -82,7 +82,7 @@ In the Container Console note the number of hosts allocated to the default Resou
 
 <img src="./img/occs-16.PNG" />
 
-To define a Stack - Click Stacks in the left hand menu. Then, click the **New Stack** button.
+To define a Stack - Click **Stacks** in the left hand menu. Then, click the **New Stack** button.
 
 <img src="./img/occs-17.PNG" />
 
