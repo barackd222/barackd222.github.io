@@ -78,7 +78,7 @@ Enter the credentials you specified when you created the service
 
 <img src="./img/occs-15.PNG" />
 
-In the Container Console note the number of hosts allocated to the default Resource Pool.
+In the Container Console note the number of **hosts** allocated to the default Resource Pool. This corresponds to the number of nodes that you entered while provisioning.
 
 <img src="./img/occs-16.PNG" />
 
@@ -90,14 +90,17 @@ Click **Advanced Editor**
 
 <img src="./img/occs-18.PNG" />
 
-Copy the contents of the occs-stack.yml file (it is located in the ankimedrec-apis project you git forked previously).
+Copy the contents of the **occs-stack.yml** file (it is located in the ankimedrec-apis project you git forked previously).
 Paste the contents into the Advanced Editor.
 Notice that the stack defintion contains two linked services - one for Node.js application, the other for MongoDB.
 
+Then, click **Done**
+
 <img src="./img/occs-19.PNG" />
 
-Name your Stack something meaningful eg MedRec
-Press Save
+*Notice that the Stack will graphically represent the associated nodes and their relationship.*
+
+Name your Stack something meaningful eg MedRec. Then press **Save**
 
 <img src="./img/occs-20.PNG" />
 
