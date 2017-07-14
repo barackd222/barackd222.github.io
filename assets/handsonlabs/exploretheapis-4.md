@@ -1,7 +1,7 @@
 
 # Explore the APIs using an Online Python Service
 
-One of the nice thing about modern APIs, is that we can choose our favourite programming language to access them. In this section of the handson lab you will 
+One of the nice thing about modern APIs, is that we can choose our favourite programming language to access them. In this section of the handson lab you will invoke the MedRec APIs with multiple types of programming languages (python, nodejs, go, etc.)
 
 ## Get the code snippet from Postman
 If you have been following through the handson labs you will already have a Postman collection with your Get and Post operations to access the APIs already saved. 
