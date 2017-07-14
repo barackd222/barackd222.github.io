@@ -10,7 +10,13 @@ Perform the Get operation to prove it is still available and responsive.
 <img src="./img/postman1.PNG"/>
 <br>
 Click on the Code link (it is located just under the Save button). 
-In the top left of the dialog window you can select the grey button (top left) and choose the programming language that suits your needs. For the purpose of our labs, choose, Python - http.client(Python 3)
+
+<img src="./img/postman1b.PNG"/>
+
+In the top left of the dialog window you can select the grey button (top left) and choose the programming language that suits your needs.
+
+For the purpose of this lab, let's choose **Python - http.client(Python 3)**
+
 <br>
 <img src="./img/postman2.PNG"/>
 <br>
