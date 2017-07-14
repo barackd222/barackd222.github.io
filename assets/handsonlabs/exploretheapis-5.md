@@ -23,8 +23,9 @@ The Swagger UI for MedRec APIs will open in a new window
 Notice that the padlock symbol (far right) shows as unlocked.
 
 Attempt to execute a GET Request for Physicians.
-Notice the TypeError: Failed to Fetch error message has been returned.
-And we agree that it should be handled better !!
+Notice the TypeError: **Failed to Fetch error message has been returned.**
+
+This is because the APIs are still **unauthorised** and the API Gateway is enforcing **a valid API-Key* to get access to all of these MedRec APIs. 
 
 <img src="./img/exploretheapis-5-3.PNG" />
 
