@@ -4,7 +4,7 @@
 
 ### Register as a developer to get an API Key
 
-This section provides instructions on how to self-register at http://developers.oracleau.cloud and obtain an API-Key that then can be used to authorise your access to the Anki-MedRec APIs hosted in the Oracle Public Cloud.
+This section provides instructions on how to self-register at [http://developers.oracleau.cloud](http://developers.oracleau.cloud) and obtain an API-Key that then can be used to authorise your access to the Anki-MedRec APIs hosted in the Oracle Public Cloud.
 
 1. The first think that you have to do is to go: [http://developers.oracleau.cloud](http://developers.oracleau.cloud)
 
@@ -33,6 +33,12 @@ d) Click on the **Anki-MedRec APIs** link to get access to its Swagger UI (more 
 e) Click **Log Out** to sign out and terminate your session.
 
 <img src="./img/exploretheapis-5a-4.PNG" />
+
+<br>
+
+For more details, feel free to watch the following video:
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/9ra_guIjce8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <br><br>
 
