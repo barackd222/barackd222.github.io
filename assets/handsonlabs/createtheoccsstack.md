@@ -43,6 +43,8 @@ IN this example, I used my exsting public key from my file system.
 
 In this example, you can get away with 1 worker node to run both the web app container and the MongoDB container.
 
+- Then, click **Next**
+
 <img src="./img/occs-8.PNG" />
 
 Review your configuration on the Summary Page.
