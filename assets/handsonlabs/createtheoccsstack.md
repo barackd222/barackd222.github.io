@@ -66,12 +66,11 @@ Click the burger menu on the right side of the service and choose Container Cons
 
 <img src="./img/occs-12.PNG" />
 
-You will see a insecure site warning message.
-Click Advanced.
+You will see an insecure site warning message. This is because a trusted certificate has not been associated with this node. For the purpose of this exercise, that's ok, simply click **Advanced**.
 
 <img src="./img/occs-13.PNG" />
 
-Click to Proceed and igmore the warning.
+Then, click to **Proceed and igmore** the warning.
 
 <img src="./img/occs-14.PNG" />
 
