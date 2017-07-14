@@ -6,7 +6,7 @@
 
 This section provides instructions to use the Postman client to access the AnkiMedRec APIs running on the Oracle Application Container Cloud Service (ACCS). The APIs are secured using the API Platform Cloud Service.
 
-** It is assumed that you have already registered as a developer and have a valid API key.**
+**It is assumed that you have already registered as a developer and have a valid API key**
 
 <img src="./img/exploretheapis-5-1.PNG" />
 
