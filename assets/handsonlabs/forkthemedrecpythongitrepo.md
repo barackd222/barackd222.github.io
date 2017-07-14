@@ -20,7 +20,7 @@ Now, on your laptop change directory into your *myprojects directory* (or whatev
 
 Next execute the following command:
 
-**git clone https://yourusername/ankimedrec-python.git**
+**git clone [GIT_HTTPS_REPO_LOCATION]**
 
 Move into this directory and look around its content.
 
