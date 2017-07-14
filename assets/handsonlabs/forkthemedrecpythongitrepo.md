@@ -10,7 +10,7 @@ The python code provides a different client to the SwaggerUI that will interact 
 Follow the same steps as you used to fork the medrecapi project.
 - Point your browser to GitHub
 - Login to GitHub using your credentials
-- Search for barackd222/ankimedrec-python.git repository
+- Search for **barackd222/ankimedrec-python** repository
 - Fork the repository
 - Navigate to view your forked copy of the repository
 - Click Clone or Download
