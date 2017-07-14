@@ -6,19 +6,21 @@
 This section provides instructions to create an OCCS Service Instance, create a Stack definition and deploy the MedRec app and MongoDB into Docker containers on OCCS.
 
 It is assumed that you already have registered for an Oracle Public Cloud subscription.
-From the Service Dashboard click Container.
+From the Service Dashboard.
+
+Click on the **Container** link
 
 <img src="./img/occs-1.PNG" />
 
-Click Open Service Console button
+Click **Open Service Console** button
 
 <img src="./img/occs-2.PNG" />
 
-Click Create Service button
+Click **Create Service** button
 
 <img src="./img/occs-3.PNG" />
 
-Giev you Service a name and description.
+Give your **Service** a Name and Description.
 
 <img src="./img/occs-4.PNG" />
 
@@ -26,24 +28,25 @@ For example - as follows
 
 <img src="./img/occs-5.PNG" />
 
-If you have an existing RSA public/private key pair choose File to browse for your Public Key,
+If you have an existing RSA **public/private key pair** choose File to browse for your **Public Key**,
 Otherwise click to Create A New Key.
 
 <img src="./img/occs-6.PNG" />
 
-I had an existing key so I chose File.
+IN this example, I used my exsting public key from my file system.
 
 <img src="./img/occs-7.PNG" />
 
-Specify the username (admin) and password 
-Choose the compute shape. To preserve your credits I suggest leave the default.
-Choose the number of worker nodes you want to spread your Docker workload across.
-In my example you can get away with 1 worker node to run both the web app container and the MongoDB container.
+- Specify the username (admin) and password.
+- Choose the compute shape. To preserve your credits I suggest leave the default.
+- Choose the number of worker nodes you want to spread your Docker workload across.
+
+In this example, you can get away with 1 worker node to run both the web app container and the MongoDB container.
 
 <img src="./img/occs-8.PNG" />
 
 Review your configuration on the Summary Page.
-Click Create.
+Click **Create**.
 
 <img src="./img/occs-9.PNG" />
 
