@@ -24,6 +24,12 @@
 - [Explore the Secured APIs with your API Key using Postman](./assets/handsonlabs/exploretheapis-6.md)
 - [Explore the Secured APIs with your API Key using an online Python Service](./assets/handsonlabs/exploretheapis-4.md)
 
+
+Congratulations, you have completed all required labs!
+
+Below you will find a list of optional labs that will teach you how to use Docker-Compose locally, as well as how to provision the MedRec application using Docker containers in the Oracle Public Cloud using Oracle Container Cloud Service, as well as Oracle Application Cloud Service.
+
+
 ### Optional Activities 
 
 #### Build the Docker Image and run up the APIs locally using Docker-Compose
