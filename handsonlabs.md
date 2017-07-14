@@ -47,19 +47,22 @@ Instead of running your Docker containers on your laptop, this time you will log
 
 - [Run and test the Node API and Mongo Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
 
-#### Try out the Responsive Web App connecting to the Medrec APIs
 
-Following the micro services architecture pattern, we have decoupled the Web application from the server side API's. In this lab we have provided a sample responsive web application developed using a progressive web framework. The app invokes and performs CRUD operations on the Medrec APIs available.
-
-- [Run and test the web app on your local machine](./assets/handsonlabs/medrecui.md)
-
-#### Provision the application and MongoDB using Oracle Cloud Services
+#### Provision the application and MongoDB using other Oracle Cloud Services
 
 Another options to run up the MedRec APIs is to use other Oracle Cloud Services.
 In the following labs you will setup Node.js on Oracle PaaS (Application Container Cloud Service - ACCS) and MongoDB on Oracle IaaS (using a Bitnami MongoDB VM template)
 
 - [Under Development - Provision MongoDB VM on Oracle IaaS](./assets/handsonlabs/mongodboniaas.md)
 - [Under Development - Create Application on Application Container Cloud Service](./assets/handsonlabs/medrecapisonaccs.md)
+
+
+#### Try out the Responsive Web App connecting to the Medrec APIs
+
+Following the micro services architecture pattern, we have decoupled the Web application from the server side API's. In this lab we have provided a sample responsive web application developed using a progressive web framework. The app invokes and performs CRUD operations on the Medrec APIs available.
+
+- [Run and test the web app on your local machine](./assets/handsonlabs/medrecui.md)
+
 
 #### Interact with Anki Cozmo
 
