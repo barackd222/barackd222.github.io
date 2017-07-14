@@ -27,7 +27,7 @@
 
 Congratulations, you have completed all required labs!
 
-Below you will find a list of optional labs that will teach you how to use Docker-Compose locally, as well as how to provision the MedRec application using Docker containers in the Oracle Public Cloud using Oracle Container Cloud Service, as well as Oracle Application Cloud Service.
+Below you will find a list of optional labs that will teach you how to use Docker-Compose locally, as well as how to provision the MedRec application using Docker containers in the Oracle Public Cloud.
 
 
 ### Optional Activities 
