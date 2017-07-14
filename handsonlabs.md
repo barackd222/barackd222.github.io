@@ -36,14 +36,14 @@ Below you will find a list of optional labs that will teach you how to use Docke
 
 - [Build and Run the Dockerised API application](./assets/handsonlabs/buildthedockerimage.md)
 
-**Challenge:** Assuming the docker containers are up and running locally, use Postman or your preferred code snippet to interact with the REST APIs hosted inside your Docker container.
+Challenge: Assuming the docker containers are up and running locally, use Postman or your preferred code snippet to interact with the REST APIs hosted inside your Docker container.
 
 
 #### Running the APIs on the Oracle Container Cloud Service
 
 Instead of running your Docker containers on your laptop, this time you will login to the Oracle Container Cloud Service (OCCS) and create a stack definition for the MedRec API (web and mongodb tier) as per the following instructions. 
 
-**Note:** It is assumed you have already created the OCCS Service using your trial account details.
+Note: It is assumed you have already created the OCCS Service using your trial account details.
 
 - [Run and test the Node API and Mongo Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
 
