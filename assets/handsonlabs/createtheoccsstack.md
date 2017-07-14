@@ -118,15 +118,15 @@ You will see some activity and the screen will flash orange and green until both
 
 <img src="./img/occs-23.PNG" />
 
-When the screen displays green for both services, click the Hostname that the stack has been deployed to.
+When the screen displays green for both services, click the **Hostname** that the stack has been deployed to.
 
 <img src="./img/occs-24.PNG" />
 
-In the page showing details about the specific host (worker node) that the stack is running on, you will see the Public IP address.
+In the page showing details about the specific host (worker node) that the stack is running on, you will see the **Public IP address**.
 
 <img src="./img/occs-25.PNG" />
 
-In a new browser tab - enter **http://theIPoftheworkernode:3000**
+In a new browser tab - enter **http://[The_IP_of_the_worker_node]:3000**
 You should now see the Swagger UI.
 
 <img src="./img/occs-26.PNG" />
