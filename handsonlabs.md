@@ -41,8 +41,9 @@ Challenge: Assuming the docker containers are up and running locally, use Postma
 
 #### Running the APIs on the Oracle Container Cloud Service
 
-Instead of running your Docker containers on your laptop, this time you will login to the Oracle Container Cloud Service (OCCS) and create a stack definition for the MedRec APi (web and mongodb tier) as per the following instructions. 
-Note: It is assumed you have already created the OCCS Service using your trial account details.
+Instead of running your Docker containers on your laptop, this time you will login to the Oracle Container Cloud Service (OCCS) and create a stack definition for the MedRec API (web and mongodb tier) as per the following instructions. 
+
+**Note:** It is assumed you have already created the OCCS Service using your trial account details.
 
 - [Run and test the Node API and Mongo Stack on the Oracle Container Cloud Service](./assets/handsonlabs/createtheoccsstack.md)
 
