@@ -44,8 +44,8 @@ There are several options that you may consider:
 <img src="./img/pythoneditor1.PNG" />
 <br>
 
-You should see a Hello World example waiting for you. 
-Press the Execute Button to see **Hello World** returned into the console window below the code editor.
+You should see a **Hello World** example waiting for you. 
+Press the **Execute** Button to see **Hello World** returned into the console window below the code editor.
 
 Notice in the console window that the command being executed is as follows:
 
@@ -61,23 +61,30 @@ Notice in the console window that the command being executed is as follows:
 - Right Click on the new file to rename it - **GetPysicians.py**
 - Now click on the tab for the GetPhsicians.py file and paste your clipboard contents that you copied from Postman into the code editor. 
 - In the console window type the following:
-``python GetPhysicians.py``
 
-All being well in the universe you should see the Physicians you added earlier returned.
+``python3 GetPhysicians.py``
+
+You should see the Physicians you added earlier returned.
 
 <br>
 ## Repeat for Post Physicians 
 <br>
 
-- In Postman execute a request to Post a new Physician.
+- In Postman execute a request to **POST** a new Physician.
 - Repeat the step to copy the code snippet.
 - Create a new file called **PostPhysicians.py** in the project on tutorialspoint website.
 - Execute the following command:
-``python PostPhysicians.py``
+
+``python3 PostPhysicians.py``
+
 - Observe the response
-- Now in the console window type the following;
-``python GetPhysicians.py``
+- Now in the console window type the following:
+
+``python3 GetPhysicians.py``
+
 - You should see the Physicians you added earlier plus the one you just added.
+
+Feel free to modify the code snippet and play building your own logic.
 
 <br>
 
