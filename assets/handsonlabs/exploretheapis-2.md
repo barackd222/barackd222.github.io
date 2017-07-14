@@ -58,7 +58,7 @@ python3 01_basic_get_physicians.py
 
 <img src="./img/python7.PNG" />
 
-Feel free to keep playing and testing with the code to make it do other things that you want.
+Feel free to spend time playing with the Python code to make it do other interesting things that you want.
 
 
 <br><br>
