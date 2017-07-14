@@ -58,7 +58,7 @@ Periodically click the refresh icon to view progress.
 
 <img src="./img/occs-10.PNG" />
 
-After around 5 minutes the "Creating Service" message will disappear as the Service is now created.
+After around 5 minutes the **"Creating Service"** message will disappear as the Service is now created.
 
 <img src="./img/occs-11.PNG" />
 
