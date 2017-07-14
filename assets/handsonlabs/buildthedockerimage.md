@@ -78,7 +78,11 @@ This menas that from a broswer **inside my Ubuntu VM** I could access using **ht
 
 Launch a browser and make sure that you can access the MedRec Swagger UI using either IP Address **http://IPaddress:3000**
 
+This image is accessing the Swagger UI from within the Ubuntu VM:
 <img src="./img/buildthedockerimage-8.PNG" />
+
+While this one is accessing the Swagger UI from outside the VM, but within the Host Machine:
+<img src="./img/buildthedockerimage-8b.PNG" />
 
 Interact with the SwaggerUI to do **GET / POST** operations and note the log output.
 
