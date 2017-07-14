@@ -20,7 +20,7 @@ This section provides instructions on how to self-register at [http://developers
 
 When you are done, click on the **Sign up** button.
 
-4. You will be granted access to the API Developers Portal.
+4. You will be granted access to the **API Developers Portal**.
 
 <img src="./img/exploretheapis-5a-3.PNG" />
 
@@ -38,7 +38,9 @@ e) Click **Log Out** to sign out and terminate your session.
 
 For more details, feel free to watch the following video:
 
+<center>
 <iframe width="600" height="350" src="https://www.youtube.com/embed/9ra_guIjce8?rel=0" frameborder="0" allowfullscreen></iframe>
+</center>
 
 <br><br>
 
