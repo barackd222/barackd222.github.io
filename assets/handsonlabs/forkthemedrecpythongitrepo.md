@@ -16,10 +16,15 @@ Follow the same steps as you used to fork the medrecapi project.
 - Click Clone or Download
 - Copy the URL for the repository
 
-On your laptop change directory into your *myprojects directory* (or whatever you used).
-Next execute the following command;
+Now, on your laptop change directory into your *myprojects directory* (or whatever you want to clone this new python code repository). 
 
-*git clone https://yourusername/ankimedrec-python.git*
+Next execute the following command:
+
+**git clone https://yourusername/ankimedrec-python.git**
+
+Move into this directory and look around its content.
+
+<br><br>
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
