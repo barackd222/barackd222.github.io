@@ -10,9 +10,13 @@ This section provides instructions to use the Postman client to access the AnkiM
 
 <img src="./img/exploretheapis-5-1.PNG" />
 
-Now launch the Swagger application that is running on ACCS.Point your browser to the following;
+Notice the **API-Key** that is assigned to you. You will need it in the following steps.
 
-[Access Swagger on ACCS](https://ankimedrecnodeapis-gse00011671.apaas.us2.oraclecloud.com/)
+Open the Swagger UI application that is running in ACCS. For this click on the link **Anki-MedRec APIs** as indicated in the image below:
+
+<img src="./img/exploretheapis-5-1b.PNG" />
+
+The Swagger UI for MedRec APIs will open in a new window
 
 <img src="./img/exploretheapis-5-2.PNG" />
 
