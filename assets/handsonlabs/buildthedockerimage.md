@@ -20,13 +20,13 @@ For example.
 
 To list any running Docker containers using the following command.
 
-``` docker ps ```
+``` sudo docker ps ```
 
 <img src="./img/buildthedockerimage-1.PNG" />
 
 To list any existing Docker images using the following command.
 
-``` docker images ```
+``` sudo docker images ```
 
 <img src="./img/buildthedockerimage-2.PNG" />
 
@@ -38,13 +38,13 @@ Ensure docker-compose is installed
 
 Now, build the docker image using the following command.
 
-``` docker-compose build ```
+``` sudo docker-compose build ```
 
 <img src="./img/buildthedockerimage-4.PNG" />
 
 Next, list the Docker images again to view the new image.
 
-``` docker images ```
+``` sudo docker images ```
 
 <img src="./img/buildthedockerimage-5.PNG" />
 
@@ -52,11 +52,13 @@ Next, list the Docker images again to view the new image.
 
 Next, run the docker containers using the following command.
 
-``` docker-compose up ```
+``` sudo docker-compose up ```
 
-At the start you should see output generated similar to the following;
+At the start you should see output generated similar to the following:
 
 <img src="./img/buildthedockerimage-6.PNG" />
+
+*Be patient while it downloads the Mongo image from DockerHub.*
 
 Further down you should see output generated similar to the following;
 
