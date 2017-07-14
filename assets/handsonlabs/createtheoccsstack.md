@@ -62,7 +62,7 @@ After around 5 minutes the **"Creating Service"** message will disappear as the 
 
 <img src="./img/occs-11.PNG" />
 
-Click the Hamburger menu on the right side of the service and choose Container Console.
+Click the burger menu on the right side of the service and choose Container Console.
 
 <img src="./img/occs-12.PNG" />
 
