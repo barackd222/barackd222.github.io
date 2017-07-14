@@ -74,7 +74,7 @@ Then, click to **Proceed and igmore** the warning.
 
 <img src="./img/occs-14.PNG" />
 
-Enter the credentials you specified when you created the service eg admin / password1
+Enter the credentials you specified when you created the service
 
 <img src="./img/occs-15.PNG" />
 
@@ -82,12 +82,11 @@ In the Container Console note the number of hosts allocated to the default Resou
 
 <img src="./img/occs-16.PNG" />
 
-To define a Stack - Click Stacks in the left hand menu.
-Click the New Stack button.
+To define a Stack - Click Stacks in the left hand menu. Then, click the **New Stack** button.
 
 <img src="./img/occs-17.PNG" />
 
-Click Advanced Editor
+Click **Advanced Editor**
 
 <img src="./img/occs-18.PNG" />
 
