@@ -64,25 +64,27 @@ Further down you should see output generated similar to the following;
 
 <img src="./img/buildthedockerimage-6a.PNG" />
 
-You may see the following errors if MongoDB and the Node application are still running locally due to port clash.
+**Note: If you see the following error, it means that there are ports clashing due to MongoDB and the Node application are still running locally due to port clash.**
 
 <img src="./img/buildthedockerimage-7.PNG" />
 
-Determine the IP address to access your APIs running in the Docker container.
-On Ununtu you can do a sudo /sbin/ifconfig to list the Ip address assigned to the Docker container and to the VM.
-For instance in the following screenshot you will see the IP addresses assigned to my enp0s3 (10.0.0.3) and docker0 (172.17.0.1) interfaces.
+Once the MedRec Application is running successfully, determine the IP address to access your APIs running in the Docker container.
 
-From a broswer in my Ubuntu VM I could access using http://172.17.0.1:3000/ and from my Windows host I could use http://10.0.0.3:3000
+On Linux, in another terminal do a **sudo /sbin/ifconfig** to list the Ip address assigned to the Docker container and to the VM. For instance, in the following screenshot you will see the IP addresses assigned to my **enp0s3(10.0.0.1)** and **docker0 (172.17.0.1)** interfaces.
+
+This menas that from a broswer **inside my Ubuntu VM** I could access using **http://172.17.0.1:3000** and from outside the VM, in the **host machine**, I could use **http://10.0.0.1:3000**
 
 <img src="./img/buildthedockerimage-7a.PNG" />
 
-Launch a browser on your browser and point it to http://yourIPaddress:3000
+Launch a browser and make sure that you can access the MedRec Swagger UI using either IP Address **http://IPaddress:3000**
 
 <img src="./img/buildthedockerimage-8.PNG" />
 
-Interact with the SwaggerUI to do Get / Post operations and note the log output.
+Interact with the SwaggerUI to do **GET / POST** operations and note the log output.
 
 <img src="./img/buildthedockerimage-9.PNG" />
+
+<br><br>
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
