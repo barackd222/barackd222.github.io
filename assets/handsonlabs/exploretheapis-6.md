@@ -30,9 +30,11 @@ The GET Request should be accepted and Physician data returned.
 
 Save the Request Information into your Collection.
 
-Repeat the above steps but this time for a POST request.
-Verify that you POST  Request was successful by repeating the GET request.
-Save your request into your collection.
+Repeat the above steps but this time for **POST** requests.
+Verify that your **POST** Request was successful by running a **GET** request.
+Save your request into your collection for future reference.
+
+<br><br>
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
