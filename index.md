@@ -26,7 +26,7 @@ So by now you have already worked it out, we have developed the API's to help us
 
 ### Check out the brief Overview Video:
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/MDGg1r9CtCw" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/MDGg1r9CtCw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Who is this for?
 
@@ -59,7 +59,7 @@ Getting started with the APIs is easy. All you need to do is register as a devel
 
 ### Accessing the APIs using your API Key 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/9ra_guIjce8" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/9ra_guIjce8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Where could this go? Community Involvement:
 
@@ -69,7 +69,7 @@ You may decide to add more capability into the API implementation, or add additi
 
 ### Cozmo Gets A Cold
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/leOZ1fUTFeE" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/leOZ1fUTFeE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](david.m.reid@oracle.com) | [Carlos Rodriguez Iturria](carlos.rodriguez.iturria@oracle.com)</sub>
 

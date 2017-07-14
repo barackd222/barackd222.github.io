@@ -38,7 +38,7 @@ e) Click **Log Out** to sign out and terminate your session.
 
 For more details, feel free to watch the following video:
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/9ra_guIjce8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="350" src="https://www.youtube.com/embed/9ra_guIjce8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <br><br>
 
