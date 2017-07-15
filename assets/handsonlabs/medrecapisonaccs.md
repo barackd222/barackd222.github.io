@@ -132,7 +132,7 @@ Note: The application should be automatically started, otherwise use the Start A
 
 Choose Open Application option.
 
-<img src="./img/accs-21.PNG" />
+<img src="./img/accs-20.PNG" />
 
 You should see that your browser is launched and the SwaggerUI is ready for your GET / POST requests.
 
