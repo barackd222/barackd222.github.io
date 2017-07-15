@@ -151,11 +151,11 @@ db.createUser(
 )
 ```
 
-You should see a message that the user was successfully created as per the folowing screenshot.
+You should see a message that the user was successfully created as per the following screenshot.
 
 <img src="./img/mongo-user-1.PNG" />
 
-Assuming all of the above worked successfully, you are now ready to do the next part of the alb where you will provision an Application Container Cloud Service (ACCS) instance to host our Node.js API's and wire it through to your MongoDB instance.
+Assuming all of the above worked successfully, you are now ready to do the next part of the lab, where you will provision an Application Container Cloud Service (ACCS) instance to host your Node.js API's and wire it through to interact with your freshly provisioned and configured MongoDB instance.
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
