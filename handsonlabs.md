@@ -53,8 +53,8 @@ Note: It is assumed you have access to Oracle Container Cloud Service e.g. using
 Another options to run up the MedRec APIs is to use other Oracle Cloud Services.
 In the following labs you will setup Node.js on Oracle PaaS (Application Container Cloud Service - ACCS) and MongoDB on Oracle IaaS (using a Bitnami MongoDB VM template)
 
-- [Under Development - Provision MongoDB VM on Oracle IaaS](./assets/handsonlabs/mongodboniaas.md)
-- [Under Development - Create Application on Application Container Cloud Service](./assets/handsonlabs/medrecapisonaccs.md)
+- [Provision MongoDB VM on Oracle IaaS](./assets/handsonlabs/mongodboniaas.md)
+- [Deploy API application to the Application Container Cloud Service](./assets/handsonlabs/medrecapisonaccs.md)
 
 
 #### Try out the Responsive Web App connecting to the Medrec APIs
