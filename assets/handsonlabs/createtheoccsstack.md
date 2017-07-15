@@ -133,7 +133,7 @@ You should now see the Swagger UI.
 
 Do a **GET** Request. It should return an empty collection of Physicians.
 
-Do some **POST** Request to add some Physicians and Patients. Then repeat the **GET** Request to confirm that the new record were fetched from the MongoDB database via the API call.
+Do some **POST** Requests to add some Physicians and Patients. Then repeat the **GET** Request to confirm that the new record were fetched from the MongoDB database via the API call.
 
 <br>
 <br>
