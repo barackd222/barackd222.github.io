@@ -70,9 +70,9 @@ Further down you should see output generated similar to the following;
 
 Once the MedRec Application is running successfully, determine the IP address to access your APIs running in the Docker container.
 
-On Linux, in another terminal do a **sudo /sbin/ifconfig** to list the Ip address assigned to the Docker container and to the VM. For instance, in the following screenshot you will see the IP addresses assigned to my **enp0s3(10.0.0.1)** and **docker0 (172.17.0.1)** interfaces.
+On Linux, in another terminal do a **sudo /sbin/ifconfig** to list the IP address assigned to the Docker container and to the VM. For instance, in the following screenshot you will see the IP addresses assigned to my **enp0s3(10.0.0.1)** and **docker0 (172.17.0.1)** interfaces.
 
-This menas that from a broswer **inside my Ubuntu VM** I could access using **http://172.17.0.1:3000** and from outside the VM, in the **host machine**, I could use **http://10.0.0.1:3000**
+This means that from a broswer **inside my Ubuntu VM** I could access using **http://172.17.0.1:3000** and from outside the VM, in the **host machine**, I could use **http://10.0.0.1:3000**
 
 <img src="./img/buildthedockerimage-7a.PNG" />
 
