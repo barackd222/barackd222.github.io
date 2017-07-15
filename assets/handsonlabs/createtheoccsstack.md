@@ -33,12 +33,12 @@ Otherwise click to Create A New Key.
 
 <img src="./img/occs-6.PNG" />
 
-IN this example, I used my exsting public key from my file system.
+In this example, I used my existing public key from my file system.
 
 <img src="./img/occs-7.PNG" />
 
 - Specify the username (admin) and password.
-- Choose the compute shape. To preserve your credits I suggest leave the default.
+- Choose the compute shape. To preserve your credits I suggest you accept the default value.
 - Choose the number of worker nodes you want to spread your Docker workload across.
 
 In this example, you can get away with 1 worker node to run both the web app container and the MongoDB container.
@@ -70,7 +70,7 @@ You will see an insecure site warning message. This is because a trusted certifi
 
 <img src="./img/occs-13.PNG" />
 
-Then, click to **Proceed and igmore** the warning.
+Then, click to **Proceed and ignore** the warning.
 
 <img src="./img/occs-14.PNG" />
 
