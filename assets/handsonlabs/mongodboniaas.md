@@ -151,6 +151,8 @@ db.createUser(
 )
 ```
 
+<img src="./img/iaas-360.PNG" />
+
 You should see a message that the user was successfully created as per the following screenshot.
 
 <img src="./img/mongo-user-1.PNG" />
