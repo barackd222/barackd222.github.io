@@ -157,6 +157,8 @@ You should see a message that the user was successfully created as per the follo
 
 <img src="./img/iaas-361.PNG" />
 
+Enter **exit** to get out of Mongo client application.
+
 Assuming all of the above worked successfully, you are now ready to do the next part of the lab, where you will provision an Application Container Cloud Service (ACCS) instance to host your Node.js API's and wire it through to interact with your freshly provisioned and configured MongoDB instance.
 
 * No warranty expressed or implied.  Software is as is.
