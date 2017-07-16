@@ -135,6 +135,13 @@ Choose Open Application option.
 <img src="./img/accs-20.PNG" />
 
 You should see that your browser is launched and the SwaggerUI is ready for your GET / POST requests.
+Please note that you will need to set the default scheme in the SwaggerUI to **HTTPS**.
+
+<img src="./img/accs-22.PNG" />
+
+If you leave it as **HTTP** you will see an error message as per the following screenshot.
+
+<img src="./img/accs-23.PNG" />
 
 * No warranty expressed or implied.  Software is as is.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
