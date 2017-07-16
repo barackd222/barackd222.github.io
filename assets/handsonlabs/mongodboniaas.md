@@ -113,7 +113,7 @@ With your saved session selected, press the **Open** button to establish the SSH
 
 In the security dialog that appears, you will need to accept the host, and once the session is established.
 
-<img src="./img/iaas-352.PNG" />
+<!--img src="./img/iaas-352.PNG" /-->
 
 ### Create a user in MongoDB
 
