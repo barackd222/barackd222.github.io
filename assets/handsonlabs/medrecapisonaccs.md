@@ -18,7 +18,7 @@ Edit the config.js file using your favourite editor.
 gedit config.js
 ```
 
-Make changes to the line referencing MONGODB_SERVER and change it from localhost to your IP address.
+Make changes to the line referencing MONGODB_SERVER and change it from localhost to your MongoDB IP address.
 
 <img src="./img/accs-3.PNG" />
 
