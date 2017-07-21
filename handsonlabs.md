@@ -57,9 +57,9 @@ In the following labs you will setup Node.js on Oracle PaaS (Application Contain
 - [Deploy API application to the Application Container Cloud Service](./assets/handsonlabs/medrecapisonaccs.md)
 
 
-#### Try out the Responsive Web App connecting to the Medrec APIs
+#### Try out the Responsive Web App leveraging material design constructs that connects to the Medrec APIs
 
-Following the micro services architecture pattern, we have decoupled the Web application from the server side API's. In this lab we have provided a sample responsive web application developed using a progressive web framework. The app invokes and performs CRUD operations on the Medrec APIs available.
+Following the micro services architecture pattern, we have decoupled the Hybrid Web application from the server side API's. In this lab we have provided a sample responsive mbile first web application developed using a progressive web framework and implement material design principles. The app invokes and performs CRUD operations on the Medrec APIs available.
 
 - [Run and test the web app on your local machine](./assets/handsonlabs/medrecui.md)
 
