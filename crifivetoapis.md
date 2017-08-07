@@ -2,9 +2,13 @@
 
 
 <a href="javascript:window.open('http://developers.oracleau.cloud');"><img src="assets/img/5minsToAPIs/step1.png"></a>
+
 <br>
+<br>
+
 <img src="assets/img/5minsToAPIs/step2.png">
 <br>
+
 <img src="assets/img/5minsToAPIs/step3.png">
 <br>
 
