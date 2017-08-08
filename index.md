@@ -1,7 +1,6 @@
 ## The Anki-MedRec Platform
 
-- a System of Record (Avitek- MedRec) to act as a discussion point around Systems of Record, and the need to differentiate and innovate outside of the Systems of Record.
-- some basic CRUD APIs against MedRec to provide a starting point upon which participants can bring their innovative ideas to explore and prove.
+Provides some basic CRUD APIs for Medical Records (Anki-MedRec Node.js application). These APIs provide a starting point upon which participants can bring their innovative ideas to explore and prove.
 
 The Anki-MedRec will serve as a vehicle to overlay innovative ideas and implement them using various Cloud Services (IaaS, PaaS, SaaS) and Open Source software. We hope that it will encourage learning and innovation from a number of perspectives whether you are running a workshop, running a conference, a hackathon or just self-learning around the following areas:
 
@@ -30,23 +29,20 @@ The MedRec Platform Playpen supports a diverse range of users and activities, su
 
 ### Get Started with AnkiMedRec-APIs
 
-The AnkiMedRec version 2 APIs are based on Node.js and interact with MongoDB as the datastore.
+The AnkiMedRec APIs are based on Node.js and interact with MongoDB as the datastore.
 The quickest way to get started is to click the Get Started link below. 
 
-[Get Started With APIs in Less Than 5 Minutes](fivetoapis.md)|[Register to access the APIs](http://developers.oracleau.cloud) | [Comprehensive HandsOn Tutorials](handsonlabs.md) | [Hackathons](hackathons.md) | [Additional Video Tutorials](videos.md) | 
+[Get Started With APIs in Less Than 5 Minutes](fivetoapis.md)| [Comprehensive HandsOn Tutorials](handsonlabs.md) | [Hackathons](hackathons.md) | [Additional Video Tutorials](videos.md) | 
  
 
-If you want to preserve the data you create then all you need to do is register as a developer by providing a username and password and you will be provided an API key.  You can then follow the hands on tutorials to do all / any of the following;
+If you want to preserve the data that you create using the APIs, then all you need to do is register as a developer. Simply provide a username and password and you will be issued an API key.  You can then follow the hands on tutorials to do all / any of the following;
 
-1. Access the APIs hosted on the Oracle Cloud protected by the Oracle API Platform Cloud Service.
-2. Setup your local development environment with Node.js, MongoDB and Docker 
-3. Run the APIs on your laptop
-4. Run the APIs inside a local Docker container
-5. Run the APIs inside a Docker Container provided by the Oracle Container Cloud Service 
-
-### Accessing the APIs using your API Key 
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/9ra_guIjce8?rel=0" frameborder="0" allowfullscreen></iframe>
+1. [Register to access the APIs](http://developers.oracleau.cloud)
+2. Access the APIs hosted on the Oracle Cloud protected by the Oracle API Platform Cloud Service.
+3. Setup your local development environment with Node.js, MongoDB and Docker 
+4. Run the APIs on your laptop
+5. Run the APIs inside a local Docker container
+6. Run the APIs inside a Docker Container provided by the Oracle Container Cloud Service 
 
 ### Where could this go? Community Involvement:
 
@@ -58,7 +54,7 @@ You may decide to add more capability into the API implementation, or add additi
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/leOZ1fUTFeE?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](david.m.reid@oracle.com) | [Carlos Rodriguez Iturria](https://www.linkedin.com/in/citurria/)</sub>
+<sub> If you are interested in contributing, please contact [Franco Ucci](franco.ucci@oracle.com) | [Ali Mukadam](ali.mukadam@oracle.com) | [Jason Lowe](jason.lowe@oracle.com) | [David Reid](https://www.linkedin.com/in/davidmreid/) | [Carlos Rodriguez Iturria](https://www.linkedin.com/in/citurria/)</sub>
 
 <hr/>
 
