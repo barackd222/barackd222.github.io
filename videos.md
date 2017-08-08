@@ -1,14 +1,14 @@
-## Video Colleciton
+## Video Collection
 
 The videos are designed to quickly explain key concepts in relation to the MedRec API Initiative.
 
 ### Learn WHY API's are important for the modern business (8 minute video)
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/9Eukapq75vs?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="450" height="320" src="https://www.youtube.com/embed/9Eukapq75vs?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Learn WHAT we did to design, create, deploy and secure the API's
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/UGMhGAMg7Aw?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="450" height="320" src="https://www.youtube.com/embed/UGMhGAMg7Aw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### SaaS to SaaS and MedRec Integration Overview (3 minutes)
 
