@@ -48,7 +48,7 @@ If you want to preserve the data that you create using the APIs, then all you ne
 
 The Node.js API's are a place to start, a beginning. We have created something that we know isn't perfect or particularly robust but the APIs seem to be functional. For instance. you can add Physicians,Patients, create prescriptions and record Observations. You may decide to add more capability by extending the API implementation, or adding additional APIs or maybe you want to connect a wearable device or an Anki-Cozmo robot to interact with the APIs. 
 
-We know that there are lots of smart people out there who like to explore, experiment and improve things, so if you are interested, why not start by doing a fork of the GIT repository and start with your idea to improve. If you want to tell us the cool things you have done send a link to your GIT project in an email to barackd222@gmail.com. Your README.md should contain a simple narrative of what you have done. We will endeavour to update this website to include your cool work.
+We know that there are lots of smart people out there who like to explore, experiment and improve things, so if you are interested, why not start by doing a fork of the [Anki-Medrec GIT repository](https://github.com/barackd222/ankimedrec-apis) and start with your idea to improve. If you want to tell us the cool things you have done send a link to your GIT project in an email to [barackd222@gmail.com](barackd222@gmail.com). Your README.md should contain a simple narrative of what you have done. We will endeavour to update this website to include your cool work.
 
 ### Cozmo Gets A Cold
 
